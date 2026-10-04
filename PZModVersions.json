@@ -1,6 +1,6 @@
 {
   "app_id": 108600,
-  "generated_utc": "2026-10-03T23:49:55.591111+00:00",
+  "generated_utc": "2026-10-04T23:37:53.466993+00:00",
   "items": {
     "1926311864": {
       "title": "Soul Filcher's Clearing Time",
@@ -46,6 +46,11 @@
       "title": "'67 Cadillac Gage Commando",
       "updated": 1790877790,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2478247379"
+    },
+    "2544353492": {
+      "title": "Has Been Read",
+      "updated": 1790639182,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2544353492"
     },
     "2566953935": {
       "title": "'86 Oshkosh P19A + Military Trailers",
@@ -156,6 +161,11 @@
       "title": "You drive, I sleep",
       "updated": 1771198724,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2830570280"
+    },
+    "2831786301": {
+      "title": "Video Game Consoles",
+      "updated": 1786550692,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2831786301"
     },
     "2837923608": {
       "title": "PertsPartyTiles",
@@ -447,11 +457,6 @@
       "updated": 1787857740,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3171184800"
     },
-    "3196111875": {
-      "title": "Error Fixifier\u2122",
-      "updated": 1788548263,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3196111875"
-    },
     "3196180339": {
       "title": "'87 Chevrolet Suburban",
       "updated": 1788459086,
@@ -504,7 +509,7 @@
     },
     "3268487204": {
       "title": "[B42] Bandits NPC",
-      "updated": 1790886094,
+      "updated": 1791150293,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204"
     },
     "3270190005": {
@@ -739,7 +744,7 @@
     },
     "3404737883": {
       "title": "Autotsar Motor Club B42",
-      "updated": 1790139021,
+      "updated": 1791132200,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3404737883"
     },
     "3405131820": {
@@ -836,6 +841,11 @@
       "title": "[B42.20] Better Flashlights",
       "updated": 1789408279,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3420478458"
+    },
+    "3420581050": {
+      "title": "TV & Radio ReInvented",
+      "updated": 1787560090,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3420581050"
     },
     "3421271152": {
       "title": "Vanilla Clothing Expansion",
@@ -1117,6 +1127,11 @@
       "updated": 1784589406,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3578735933"
     },
+    "3580276809": {
+      "title": "[B42.20] The Only Cure",
+      "updated": 1789315810,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3580276809"
+    },
     "3580557206": {
       "title": "Better Daily Reports",
       "updated": 1788294507,
@@ -1161,6 +1176,11 @@
       "title": "Disable Auto Drink [B42MP]",
       "updated": 1786265162,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3598196432"
+    },
+    "3599514194": {
+      "title": "Better Dressed - Transmog",
+      "updated": 1790267137,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3599514194"
     },
     "3600401184": {
       "title": "Realistic Temperature Mod [B42.18+ MP]",
@@ -1359,7 +1379,7 @@
     },
     "3651954650": {
       "title": "SaucedCarts - Pushable Carts",
-      "updated": 1787324948,
+      "updated": 1791144422,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3651954650"
     },
     "3652008781": {
@@ -1442,11 +1462,6 @@
       "updated": 1790879647,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3674800555"
     },
-    "3676068610": {
-      "title": "[B42] Vex's TV &  Radio Reinvented with Scaling - NO MORE UPDATES",
-      "updated": 1772609415,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3676068610"
-    },
     "3676347667": {
       "title": "Tanks Have Propane (B42) .14 & .15",
       "updated": 1773139137,
@@ -1459,7 +1474,7 @@
     },
     "3677147974": {
       "title": "Zed's Universal Mod Unbork",
-      "updated": 1778096788,
+      "updated": 1791117976,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3677147974"
     },
     "3677265317": {
@@ -1532,10 +1547,10 @@
       "updated": 1778083807,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3687394815"
     },
-    "3689877181": {
-      "title": "Turbo Game! (Mini Games for The Handheld)",
-      "updated": 1787466714,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3689877181"
+    "3688576740": {
+      "title": "MinimalHotbar",
+      "updated": 1786984084,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3688576740"
     },
     "3690308807": {
       "title": "Vehicle Ground Guard [B42 SP + MP]",
@@ -1559,7 +1574,7 @@
     },
     "3694097672": {
       "title": "Tooltiplib - Tooltip Framework for Modders",
-      "updated": 1787744444,
+      "updated": 1791108339,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3694097672"
     },
     "3698101965": {
@@ -1571,6 +1586,11 @@
       "title": "[B42] Pass Through Window",
       "updated": 1785539111,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3698600535"
+    },
+    "3698742271": {
+      "title": "Video Framebuffer",
+      "updated": 1786421508,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3698742271"
     },
     "3699222911": {
       "title": "Repair Floor Cracks [B42 SP/MP]",
@@ -1602,6 +1622,11 @@
       "updated": 1776704641,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3705580001"
     },
+    "3705757669": {
+      "title": "REAL Zomboid Console Emulation",
+      "updated": 1777763573,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3705757669"
+    },
     "3708816224": {
       "title": "Navigator | Navigation Mod for Project Zomboid B42",
       "updated": 1788342975,
@@ -1609,7 +1634,7 @@
     },
     "3709229404": {
       "title": "Zed's Better ModList",
-      "updated": 1777722325,
+      "updated": 1791118122,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3709229404"
     },
     "3710281407": {
@@ -1839,7 +1864,7 @@
     },
     "3746603021": {
       "title": "Tripping Zombies: Reborn w/ Ragdolls [B42]",
-      "updated": 1787114715,
+      "updated": 1791091893,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3746603021"
     },
     "3746632343": {
@@ -2219,7 +2244,7 @@
     },
     "3773667690": {
       "title": "SG's Occupations & Traits",
-      "updated": 1791051334,
+      "updated": 1791136428,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3773667690"
     },
     "3774782086": {
@@ -2547,10 +2572,10 @@
       "updated": 1786550245,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3782237215"
     },
-    "3782353554": {
-      "title": "Todds mods: Dead rat alarm clock",
-      "updated": 1786570350,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3782353554"
+    "3782313362": {
+      "title": "[B42] GridInventory - Tarkov-Style Inventory System",
+      "updated": 1787355185,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3782313362"
     },
     "3782524328": {
       "title": "Paint My KI5",
@@ -2769,7 +2794,7 @@
     },
     "3787740074": {
       "title": "BADLANDS Media",
-      "updated": 1790275602,
+      "updated": 1791097836,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3787740074"
     },
     "3788037471": {
@@ -2907,11 +2932,6 @@
       "updated": 1789484753,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793875056"
     },
-    "3794105078": {
-      "title": "Brush your damn teeth",
-      "updated": 1791001479,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3794105078"
-    },
     "3794207681": {
       "title": "Fitted Sheets",
       "updated": 1790355251,
@@ -2962,6 +2982,11 @@
       "updated": 1788574890,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3795847162"
     },
+    "3796050675": {
+      "title": "TVRadio Reinvented - 42.20 FIX",
+      "updated": 1789254766,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3796050675"
+    },
     "3796440093": {
       "title": "SideWinder's Placement+",
       "updated": 1788648558,
@@ -2999,7 +3024,7 @@
     },
     "3797492691": {
       "title": "Try Before You Wear",
-      "updated": 1790284691,
+      "updated": 1791145790,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3797492691"
     },
     "3797745688": {
@@ -3034,7 +3059,7 @@
     },
     "3798555914": {
       "title": "Guns of Marz: Attachment Workbench",
-      "updated": 1791013024,
+      "updated": 1791114252,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3798555914"
     },
     "3798792768": {
@@ -3177,6 +3202,11 @@
       "updated": 1790230514,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807123182"
     },
+    "3807149198": {
+      "title": "Badlands Workshop Tools",
+      "updated": 1790722243,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807149198"
+    },
     "3807182783": {
       "title": "Visible Vehicle Coupling",
       "updated": 1790975115,
@@ -3184,7 +3214,7 @@
     },
     "3807333290": {
       "title": "BADLANDS Greenhouse",
-      "updated": 1790439347,
+      "updated": 1791097215,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807333290"
     },
     "3807341379": {
@@ -3206,6 +3236,11 @@
       "title": "Little Bird",
       "updated": 1790642722,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807588367"
+    },
+    "3807616121": {
+      "title": "Badlands Moonshine",
+      "updated": 1791086726,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807616121"
     },
     "3807677836": {
       "title": "Badlands Garage",
@@ -3234,7 +3269,7 @@
     },
     "3808521758": {
       "title": "BADLANDS Electric Fence (WIP)",
-      "updated": 1790548935,
+      "updated": 1791150608,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808521758"
     },
     "3808805193": {
@@ -3249,12 +3284,12 @@
     },
     "3808817996": {
       "title": "Badlands Tabletop \u2014 Playable Board & Card Games [B42]",
-      "updated": 1790722222,
+      "updated": 1791090344,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808817996"
     },
     "3808944882": {
       "title": "Survivor Briefing",
-      "updated": 1791013744,
+      "updated": 1791134523,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808944882"
     },
     "3809306528": {
@@ -3274,7 +3309,7 @@
     },
     "3809553440": {
       "title": "M1 Abrams",
-      "updated": 1790910833,
+      "updated": 1791076596,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809553440"
     },
     "3809762635": {
@@ -3294,7 +3329,7 @@
     },
     "3810071828": {
       "title": "Immersive Snow",
-      "updated": 1791015294,
+      "updated": 1791111230,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810071828"
     },
     "3810188405": {
@@ -3309,8 +3344,13 @@
     },
     "3810302175": {
       "title": "6244 3D models for Viewpoint [sour_kisel]",
-      "updated": 1790977211,
+      "updated": 1791108816,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810302175"
+    },
+    "3810406718": {
+      "title": "Junkyard Sentinel: Turrets & Defense Systems (B42)",
+      "updated": 1791140734,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810406718"
     },
     "3810524550": {
       "title": "Collapsable Mod Options",
@@ -3329,7 +3369,7 @@
     },
     "3810674933": {
       "title": "Tactical Grid Inventory (Tarkov-style)",
-      "updated": 1791060670,
+      "updated": 1791146968,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810674933"
     },
     "3810688371": {
@@ -3354,7 +3394,7 @@
     },
     "3811256204": {
       "title": "Project Viewpoint QOL",
-      "updated": 1791064073,
+      "updated": 1791150848,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811256204"
     },
     "3811308208": {
@@ -3368,8 +3408,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811344119"
     },
     "3811400314": {
-      "title": "Project ViewPoint: 3D Interiors & Native Aim [B42.21]",
-      "updated": 1791040238,
+      "title": "Project ViewPoint: 3D Models [B42.21]",
+      "updated": 1791113222,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811400314"
     },
     "3811472160": {
@@ -3386,6 +3426,16 @@
       "title": "Fire Fix - Project Viewpoint",
       "updated": 1791033504,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811495292"
+    },
+    "3811601101": {
+      "title": "Shield Up",
+      "updated": 1790897134,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811601101"
+    },
+    "3811646485": {
+      "title": "Old Tractor",
+      "updated": 1790904832,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811646485"
     },
     "3811666177": {
       "title": "[B42] Kick Scooters - Community Update",
@@ -3419,8 +3469,63 @@
     },
     "3812222734": {
       "title": "Cummins Onan 12.5JC Generator",
-      "updated": 1791063543,
+      "updated": 1791142827,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3812222734"
+    },
+    "3812518796": {
+      "title": "Project Viewpoint - Place Items (SUB-MOD)",
+      "updated": 1791026917,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3812518796"
+    },
+    "3812612054": {
+      "title": "Project Viewpoint: Recoil & ADS",
+      "updated": 1791126441,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3812612054"
+    },
+    "3812702301": {
+      "title": "Viewpoint Advanced Movement",
+      "updated": 1791088028,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3812702301"
+    },
+    "3812864848": {
+      "title": "Viewpoint True Ballistics",
+      "updated": 1791116496,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3812864848"
+    },
+    "3812894986": {
+      "title": "Literally Playable Video Game Consoles! [PZEMU Integration]",
+      "updated": 1791061777,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3812894986"
+    },
+    "3812984535": {
+      "title": "Viewpoint - Immersive Effects",
+      "updated": 1791143218,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3812984535"
+    },
+    "3813053718": {
+      "title": "Useful Pallets",
+      "updated": 1791080914,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813053718"
+    },
+    "3813112276": {
+      "title": "Black Hawk",
+      "updated": 1791089868,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813112276"
+    },
+    "3813172420": {
+      "title": "Project Viewpoint: TREE in 3D",
+      "updated": 1791099786,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813172420"
+    },
+    "3813194971": {
+      "title": "Viewpoint - Advanced Throwables",
+      "updated": 1791121010,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813194971"
+    },
+    "3813428248": {
+      "title": "Viewpoint - Snow Fix",
+      "updated": 1791134953,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813428248"
     }
   },
   "schema": 1
