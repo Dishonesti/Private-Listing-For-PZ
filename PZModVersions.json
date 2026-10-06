@@ -1,6 +1,6 @@
 {
   "app_id": 108600,
-  "generated_utc": "2026-10-06T21:14:07.967542+00:00",
+  "generated_utc": "2026-10-06T22:02:38.315673+00:00",
   "items": {
     "1926311864": {
       "title": "Soul Filcher's Clearing Time",
@@ -1469,7 +1469,7 @@
     },
     "3676347667": {
       "title": "Tanks Have Propane (B42) .14 & .15",
-      "updated": 0,
+      "updated": 1773139137,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3676347667"
     },
     "3676456221": {
@@ -1644,7 +1644,7 @@
     },
     "3713055578": {
       "title": "Tanks Have Propane (B42) Fixed",
-      "updated": 1777019760,
+      "updated": 0,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3713055578"
     },
     "3713168336": {
@@ -2546,11 +2546,6 @@
       "title": "Project RV Cabin Climate Fix (Build 42.20)",
       "updated": 1786395089,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3781225795"
-    },
-    "3781284384": {
-      "title": "Hide In Game Version Text [B42.20.2+]",
-      "updated": 1786393869,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3781284384"
     },
     "3781319724": {
       "title": "[B42.21+ MP] - Furniture Push & Pull",
@@ -3561,11 +3556,6 @@
       "title": "Zombie Visibility Fix",
       "updated": 1791223403,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814073243"
-    },
-    "3814115931": {
-      "title": "Viewpoint - Performance & Engine Optimization Patch",
-      "updated": 1791216653,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814115931"
     },
     "3814178814": {
       "title": "Viewpoint Tile Fix - Complete Roofs V1.1",
