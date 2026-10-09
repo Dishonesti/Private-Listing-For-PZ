@@ -535,15 +535,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3592172476__1790853084__Take_A_Bath_And_Shower_New.zip",
       "workshop_id": "3592172476"
     },
-    "TanksHavePropane": {
-      "asset": "3713055578__1510641156__TanksHavePropane.zip",
-      "sha256": "e831736a154cc215b8828f72355373366a8cf82e1e70eec472cb4c98e757dbfb",
-      "size": 1387260,
-      "source": "server_copy",
-      "updated": 1510641156,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3713055578__1510641156__TanksHavePropane.zip",
-      "workshop_id": "3713055578"
-    },
     "TchernoLib": {
       "asset": "3389605231__1786850608__TchernoLib.zip",
       "sha256": "9b59b460b3d0886e7957126f290ddf006b1d7e404c5856f955278dc3bf1457d0",
@@ -920,7 +911,7 @@
       "workshop_id": "3716934959"
     }
   },
-  "generated_utc": "2026-10-09T04:54:11.398241+00:00",
+  "generated_utc": "2026-10-09T05:19:18.172596+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
