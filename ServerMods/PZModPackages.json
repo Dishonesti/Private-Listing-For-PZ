@@ -191,22 +191,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813413282__1791207164__HoldTheDoor.zip",
       "workshop_id": "3813413282"
     },
-    "ImmersiveLootingB42": {
-      "asset": "3778403732__1791153357__ImmersiveLootingB42.zip",
-      "sha256": "ec0e3c4f2437e6b56aa5a5dba50783188a1aa2bdf88bb47de54e5dd2c05771b4",
-      "size": 1499962,
-      "updated": 1791153357,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3778403732__1791153357__ImmersiveLootingB42.zip",
-      "workshop_id": "3778403732"
-    },
-    "ImmersiveLootingVisibleItems": {
-      "asset": "3814977901__1791332353__ImmersiveLootingVisibleItems.zip",
-      "sha256": "d7040bea9060401632d9fe59a901d8547c4250c211055c28ddb8a256f8fea488",
-      "size": 187710,
-      "updated": 1791332353,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814977901__1791332353__ImmersiveLootingVisibleItems.zip",
-      "workshop_id": "3814977901"
-    },
     "ImmersiveSnow": {
       "asset": "3810071828__1791111230__ImmersiveSnow.zip",
       "sha256": "e039c6cd393f5559bd796a47c939c2edbd26dda09c8b428e865e2e9d64e34b4e",
@@ -323,24 +307,6 @@
       "updated": 1789662428,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3796483217__1789662428__NPCBases.zip",
       "workshop_id": "3796483217"
-    },
-    "NeatUI_Hairstyler": {
-      "asset": "3760534563__1789498221__NeatUI_Hairstyler.zip",
-      "sha256": "9a87a0d990628f8919b3f236f46fcdee235d21a40763dc6fca25f3e5340a173a",
-      "size": 973858,
-      "source": "server_copy",
-      "updated": 1789498221,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3760534563__1789498221__NeatUI_Hairstyler.zip",
-      "workshop_id": "3760534563"
-    },
-    "NeatUI_XPDrop": {
-      "asset": "3760545452__1788631549__NeatUI_XPDrop.zip",
-      "sha256": "32484974513bf88730e9b3acdb05fe5760e486b08708d59601cf583843ff6859",
-      "size": 1128877,
-      "source": "server_copy",
-      "updated": 1788631549,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3760545452__1788631549__NeatUI_XPDrop.zip",
-      "workshop_id": "3760545452"
     },
     "Nellis Air Force Base": {
       "asset": "3783433804__1787438368__Nellis_Air_Force_Base.zip",
@@ -637,14 +603,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815033191__1791342458__ViewpointBarricade.zip",
       "workshop_id": "3815033191"
     },
-    "ViewpointBetterTerrain": {
-      "asset": "3815223174__1791447373__ViewpointBetterTerrain.zip",
-      "sha256": "d1e5e8e9c03fb5f2f159b1ddbc3d622ce7b45c3ff478a913dd7f62029654894b",
-      "size": 181306,
-      "updated": 1791447373,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815223174__1791447373__ViewpointBetterTerrain.zip",
-      "workshop_id": "3815223174"
-    },
     "ViewpointBetterWindow": {
       "asset": "3814787969__1791309235__ViewpointBetterWindow.zip",
       "sha256": "823dfa89e17715e5140a2558c22b3d89e5e9ecc4fd87a8e20e4b3feda55e9cbf",
@@ -730,14 +688,6 @@
       "updated": 1791234816,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811344119__1791234816__ViewpointLight.zip",
       "workshop_id": "3811344119"
-    },
-    "ViewpointOptimizationPatch": {
-      "asset": "3814115931__1791216653__ViewpointOptimizationPatch.zip",
-      "sha256": "6f41229e659f72e0e08dc943d707f4261d0398fd8d44fd161bd8d74d8b330971",
-      "size": 399738,
-      "updated": 1791216653,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814115931__1791216653__ViewpointOptimizationPatch.zip",
-      "workshop_id": "3814115931"
     },
     "ViewpointPlace": {
       "asset": "3812518796__1791026917__ViewpointPlace.zip",
@@ -911,7 +861,7 @@
       "workshop_id": "3716934959"
     }
   },
-  "generated_utc": "2026-10-09T05:19:18.172596+00:00",
+  "generated_utc": "2026-10-09T05:41:34.118218+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
