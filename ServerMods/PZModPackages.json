@@ -308,6 +308,16 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3796483217__1789662428__NPCBases.zip",
       "workshop_id": "3796483217"
     },
+    "Neat_Building": {
+      "asset": "3536052310__1790686405__Neat_Building.zip",
+      "partial_item": true,
+      "sha256": "b30884bbe97271b688e62533a9d95d87581c9ebec62fca16ca10a77510197c96",
+      "size": 4588830,
+      "source": "server_copy",
+      "updated": 1790686405,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3536052310__1790686405__Neat_Building.zip",
+      "workshop_id": "3536052310"
+    },
     "Nellis Air Force Base": {
       "asset": "3783433804__1787438368__Nellis_Air_Force_Base.zip",
       "sha256": "d43abdf610e74035b884a6517cad4e6732042d35d474bee22edff626c64a785d",
@@ -878,7 +888,7 @@
       "workshop_id": "3716934959"
     }
   },
-  "generated_utc": "2026-10-09T06:35:20.245655+00:00",
+  "generated_utc": "2026-10-09T06:51:37.611402+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
