@@ -343,6 +343,15 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2544353492__1790639182__P4HasBeenRead.zip",
       "workshop_id": "2544353492"
     },
+    "PZFB": {
+      "asset": "3698742271__1289369447__PZFB.zip",
+      "sha256": "ee5eec93422eae8885ee71117685497d1cd7261ddd5b8c30db5693da3c119f4a",
+      "size": 1347481,
+      "source": "server_copy",
+      "updated": 1289369447,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3698742271__1289369447__PZFB.zip",
+      "workshop_id": "3698742271"
+    },
     "PZVoxelStudioViewpoint": {
       "asset": "3810302175__1791108816__PZVoxelStudioViewpoint.zip",
       "sha256": "6a1ddc5a0933ce42d20721ac06680329bc65a224288c6a08f29b53cab806c8c3",
@@ -861,7 +870,7 @@
       "workshop_id": "3716934959"
     }
   },
-  "generated_utc": "2026-10-09T05:41:34.118218+00:00",
+  "generated_utc": "2026-10-09T05:45:49.822340+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
