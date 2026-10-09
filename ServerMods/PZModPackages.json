@@ -784,6 +784,16 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3807182783__1791221837__Visible_Vehicle_Coupling.zip",
       "workshop_id": "3807182783"
     },
+    "Wallpapers": {
+      "asset": "2999595757__1791291006__Wallpapers.zip",
+      "partial_item": true,
+      "sha256": "f9cffc9c06328675fd038ae0bb5d8f6069f680d51765a4f6f8b8094b969855c9",
+      "size": 161747010,
+      "source": "server_copy",
+      "updated": 1791291006,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2999595757__1791291006__Wallpapers.zip",
+      "workshop_id": "2999595757"
+    },
     "YetAnotherPZLib": {
       "asset": "3624971238__1791040437__YetAnotherPZLib.zip",
       "sha256": "2535559c6bb8a9c625e2e8ccea6ad0a91c1649a97746170347ea359cfa4156d4",
@@ -846,6 +856,16 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811010882__1790933907__batman_SignalSmoke.zip",
       "workshop_id": "3811010882"
     },
+    "batman_TimberChainsaw": {
+      "asset": "3810638546__1790973185__batman_TimberChainsaw.zip",
+      "partial_item": true,
+      "sha256": "99edde062200b587350600f731b65edfbfe9519d82ffbc1c48a6e482c1add260",
+      "size": 1765049,
+      "source": "server_copy",
+      "updated": 1790973185,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810638546__1790973185__batman_TimberChainsaw.zip",
+      "workshop_id": "3810638546"
+    },
     "damnlib": {
       "asset": "3171167894__1790705894__damnlib.zip",
       "sha256": "826962f16e9f2708ec8310316bb2422a87c066b438578667340e4196e25b1507",
@@ -900,7 +920,7 @@
       "workshop_id": "3716934959"
     }
   },
-  "generated_utc": "2026-10-09T04:01:18.121701+00:00",
+  "generated_utc": "2026-10-09T04:54:11.398241+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
