@@ -27,6 +27,14 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3786074122__1790908270__AircraftMod.zip",
       "workshop_id": "3786074122"
     },
+    "Animations Smooth Sync Vehicle 42.13.2": {
+      "asset": "3670959466__1771996419__Animations_Smooth_Sync_Vehicle_42.13.2.zip",
+      "sha256": "82a5bf4b90cd017c483b095ee38c0e295104f09f3514e71b784590514b2434e6",
+      "size": 1129831,
+      "updated": 1771996419,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3670959466__1771996419__Animations_Smooth_Sync_Vehicle_42.13.2.zip",
+      "workshop_id": "3670959466"
+    },
     "AutotsarMotorClub": {
       "asset": "3404737883__1791132200__AutotsarMotorClub.zip",
       "sha256": "1459e001a27417303dd035eac6768d366510a4068df4dc480a89bcdb70c97956",
@@ -495,16 +503,6 @@
       "updated": 1789662428,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3796483217__1789662428__NPCBases.zip",
       "workshop_id": "3796483217"
-    },
-    "Neat_Building": {
-      "asset": "3536052310__1790686405__Neat_Building.zip",
-      "partial_item": true,
-      "sha256": "b30884bbe97271b688e62533a9d95d87581c9ebec62fca16ca10a77510197c96",
-      "size": 4588830,
-      "source": "server_copy",
-      "updated": 1790686405,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3536052310__1790686405__Neat_Building.zip",
-      "workshop_id": "3536052310"
     },
     "Nellis Air Force Base": {
       "asset": "3783433804__1787438368__Nellis_Air_Force_Base.zip",
@@ -1324,7 +1322,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-09T09:43:24.600043+00:00",
+  "generated_utc": "2026-10-09T10:12:49.335061+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
