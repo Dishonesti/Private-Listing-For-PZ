@@ -165,6 +165,14 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3786970737__1790933782__EPRZB.zip",
       "workshop_id": "3786970737"
     },
+    "ElectricStoveForHeat": {
+      "asset": "3583724172__1777715445__ElectricStoveForHeat.zip",
+      "sha256": "a619210f637966ff855d982657e0a0754527920c076f54e8feff6f6b37a91d6d",
+      "size": 285821,
+      "updated": 1777715445,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3583724172__1777715445__ElectricStoveForHeat.zip",
+      "workshop_id": "3583724172"
+    },
     "FishingView": {
       "asset": "3814560827__1791391273__FishingView.zip",
       "sha256": "1cfa79e60889e1b80c1670df8206c0c2cb6df7a50e313b150770cd1bcc24f13a",
@@ -725,6 +733,14 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3812518796__1791026917__ViewpointPlace.zip",
       "workshop_id": "3812518796"
     },
+    "ViewpointRollingHills": {
+      "asset": "3815630947__1791516946__ViewpointRollingHills.zip",
+      "sha256": "536c4fb939f590ddcca0546129d6bfd7957346ac5ebafef2b4ef05a31113f82a",
+      "size": 203502,
+      "updated": 1791516946,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815630947__1791516946__ViewpointRollingHills.zip",
+      "workshop_id": "3815630947"
+    },
     "ViewpointSurface": {
       "asset": "3814398576__1791248596__ViewpointSurface.zip",
       "sha256": "7b63e7f8c9a22dcec55e4bfbd2e7236a380ea7b00510b5e94646a4a2f87666f3",
@@ -888,7 +904,7 @@
       "workshop_id": "3716934959"
     }
   },
-  "generated_utc": "2026-10-09T06:51:37.611402+00:00",
+  "generated_utc": "2026-10-09T09:36:49.875508+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
