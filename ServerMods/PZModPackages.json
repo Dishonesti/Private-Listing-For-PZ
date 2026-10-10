@@ -1181,6 +1181,14 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3783567014__1791326902__alicesKitsunesCrossbowMod.zip",
       "workshop_id": "3783567014"
     },
+    "batman_BeltRadio": {
+      "asset": "3817018338__1791652115__batman_BeltRadio.zip",
+      "sha256": "f301250f709028740e44f166e2c18196b373d555add4ebf9970b1ff0483639c5",
+      "size": 47842,
+      "updated": 1791652115,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817018338__1791652115__batman_BeltRadio.zip",
+      "workshop_id": "3817018338"
+    },
     "batman_MilitaryDrop": {
       "asset": "3811752923__1791411675__batman_MilitaryDrop.zip",
       "sha256": "af7b8823b9998fe4f670cba4d91f1634f687641e62a2ba9cc60bf253ed632fbe",
@@ -1333,7 +1341,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-10T17:20:59.841116+00:00",
+  "generated_utc": "2026-10-10T17:53:05.932904+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
