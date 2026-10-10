@@ -656,13 +656,13 @@
       "workshop_id": "3815931973"
     },
     "Project_Cook": {
-      "asset": "3490188370__1790683695__Project_Cook.zip",
+      "asset": "3490188370__1791637118__Project_Cook.zip",
       "partial_item": true,
-      "sha256": "29afc4f221af3c82d4d0a634821d865d807e419778c817e95ec2cebb386a6003",
-      "size": 2585169,
+      "sha256": "74a1e17d5b4125482624774aaf61f96f5932964c4754029c8c53f78f9517bad7",
+      "size": 2592027,
       "source": "server_copy",
-      "updated": 1790683695,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3490188370__1790683695__Project_Cook.zip",
+      "updated": 1791637118,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3490188370__1791637118__Project_Cook.zip",
       "workshop_id": "3490188370"
     },
     "RCStructureFramework": {
@@ -1346,7 +1346,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-10T18:37:59.679886+00:00",
+  "generated_utc": "2026-10-10T19:37:35.540532+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
