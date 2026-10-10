@@ -526,12 +526,12 @@
       "workshop_id": "3812222734"
     },
     "P4HasBeenRead": {
-      "asset": "2544353492__1790639182__P4HasBeenRead.zip",
-      "sha256": "a0dda7ab7b7cdeeea9e94f9eac2f1c4c2aa5fa5244991698ecc39d31069cdd1a",
-      "size": 1129046,
+      "asset": "2544353492__1401087589__P4HasBeenRead.zip",
+      "sha256": "61394549287e7ca60e3d064f582f5262eb277f6d2215f8e5ed72fb34dd851e33",
+      "size": 1129167,
       "source": "server_copy",
-      "updated": 1790639182,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2544353492__1790639182__P4HasBeenRead.zip",
+      "updated": 1401087589,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2544353492__1401087589__P4HasBeenRead.zip",
       "workshop_id": "2544353492"
     },
     "PZFB": {
@@ -599,11 +599,12 @@
       "workshop_id": "3412105017"
     },
     "ProjectViewpoint-KI5VehiclePartsFix": {
-      "asset": "3815019204__1791341499__ProjectViewpoint-KI5VehiclePartsFix.zip",
-      "sha256": "94fedea9a85edcefb1ee1ed6738def1408f4086a8e08feb78b721740f3fcedad",
-      "size": 173329,
-      "updated": 1791341499,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815019204__1791341499__ProjectViewpoint-KI5VehiclePartsFix.zip",
+      "asset": "3815019204__1562322040__ProjectViewpoint-KI5VehiclePartsFix.zip",
+      "sha256": "d69294c31c39f1edb3e4de0a1ec9098506974c9a01cf545a8cbb9dd4c2c1aca2",
+      "size": 174247,
+      "source": "server_copy",
+      "updated": 1562322040,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815019204__1562322040__ProjectViewpoint-KI5VehiclePartsFix.zip",
       "workshop_id": "3815019204"
     },
     "ProjectViewpointNearVegetation": {
@@ -626,6 +627,7 @@
       "asset": "3815931973__1791492469__ProjectViewpointShelves.zip",
       "sha256": "6e04262988d10858c2f24f611bd3e22f013b9b1971e82360acda792f24f42a09",
       "size": 52354674,
+      "source": "server_copy",
       "updated": 1791492469,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815931973__1791492469__ProjectViewpointShelves.zip",
       "workshop_id": "3815931973"
@@ -657,12 +659,12 @@
       "workshop_id": "3810876724"
     },
     "SMB_steps": {
-      "asset": "3813489363__1791247213__SMB_steps.zip",
-      "sha256": "b327ae0db97250fbb14c3b2adae9f543ffe03f6f0c5e90365594fa4435b5a5b0",
-      "size": 11970993,
+      "asset": "3813489363__1423345204__SMB_steps.zip",
+      "sha256": "758c162d2beae4317447d3406a9c030ffffc74948af67117054712a3f31de59a",
+      "size": 11971966,
       "source": "server_copy",
-      "updated": 1791247213,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813489363__1791247213__SMB_steps.zip",
+      "updated": 1423345204,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813489363__1423345204__SMB_steps.zip",
       "workshop_id": "3813489363"
     },
     "SentinelTurrets": {
@@ -1046,11 +1048,12 @@
       "workshop_id": "3812518796"
     },
     "ViewpointRollingHills": {
-      "asset": "3815630947__1791516946__ViewpointRollingHills.zip",
-      "sha256": "536c4fb939f590ddcca0546129d6bfd7957346ac5ebafef2b4ef05a31113f82a",
-      "size": 203502,
-      "updated": 1791516946,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815630947__1791516946__ViewpointRollingHills.zip",
+      "asset": "3815630947__1352581370__ViewpointRollingHills.zip",
+      "sha256": "667c89df7b71b3b08b269065933650372441e0e9c76400c87ed16f77b151083a",
+      "size": 204726,
+      "source": "server_copy",
+      "updated": 1352581370,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815630947__1352581370__ViewpointRollingHills.zip",
       "workshop_id": "3815630947"
     },
     "ViewpointSurface": {
@@ -1078,13 +1081,13 @@
       "workshop_id": "3807182783"
     },
     "Wallpapers": {
-      "asset": "2999595757__1791291006__Wallpapers.zip",
+      "asset": "2999595757__1791550321__Wallpapers.zip",
       "partial_item": true,
-      "sha256": "f9cffc9c06328675fd038ae0bb5d8f6069f680d51765a4f6f8b8094b969855c9",
-      "size": 161747010,
+      "sha256": "2ff2f7b17fe1e6f8c7fa4f5bcbe285a8a2388ad1bd13c7cf8f81bd630ce74dd4",
+      "size": 163373523,
       "source": "server_copy",
-      "updated": 1791291006,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2999595757__1791291006__Wallpapers.zip",
+      "updated": 1791550321,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2999595757__1791550321__Wallpapers.zip",
       "workshop_id": "2999595757"
     },
     "WaterPipes": {
@@ -1172,13 +1175,13 @@
       "workshop_id": "3811010882"
     },
     "batman_TimberChainsaw": {
-      "asset": "3810638546__1790973185__batman_TimberChainsaw.zip",
+      "asset": "3810638546__1791411653__batman_TimberChainsaw.zip",
       "partial_item": true,
-      "sha256": "99edde062200b587350600f731b65edfbfe9519d82ffbc1c48a6e482c1add260",
-      "size": 1765049,
+      "sha256": "27e02a11195ac885366445a14d6a8426a04525f91bd0ed2158ddd4edeb8c6487",
+      "size": 1766900,
       "source": "server_copy",
-      "updated": 1790973185,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810638546__1790973185__batman_TimberChainsaw.zip",
+      "updated": 1791411653,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810638546__1791411653__batman_TimberChainsaw.zip",
       "workshop_id": "3810638546"
     },
     "buildable-garage-doors": {
@@ -1218,30 +1221,23 @@
       "workshop_id": "3799050151"
     },
     "newclothesmodels": {
-      "asset": "3657694399__1786671476__newclothesmodels.zip",
-      "sha256": "05fd86f56083bd1d1a7f0525021c64e1ffd899f432f1ec8209d3d5a3c423ce76",
-      "size": 728125,
+      "asset": "3657694399__1791488450__newclothesmodels.zip",
+      "partial_item": true,
+      "sha256": "36ae9b090595cb10e57e177dfdf2ef25266e4acc251e355cdc40cb338745ffa8",
+      "size": 781897,
       "source": "server_copy",
-      "updated": 1786671476,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3657694399__1786671476__newclothesmodels.zip",
+      "updated": 1791488450,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3657694399__1791488450__newclothesmodels.zip",
       "workshop_id": "3657694399"
     },
     "newclothesmodelsshoes": {
-      "asset": "3657694399__1786671476__newclothesmodelsshoes.zip",
+      "asset": "3657694399__1791488450__newclothesmodelsshoes.zip",
+      "partial_item": true,
       "sha256": "6322aa5b533d65be3ab2d39e066d5e6f574f17947470020dd04025f63053a36f",
       "size": 102910,
       "source": "server_copy",
-      "updated": 1786671476,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3657694399__1786671476__newclothesmodelsshoes.zip",
-      "workshop_id": "3657694399"
-    },
-    "newclothesmodelswinterhat": {
-      "asset": "3657694399__1786671476__newclothesmodelswinterhat.zip",
-      "sha256": "451eed55881e8b2b34c6179fde36fd88649e1c155a0ee452f7b68d5a6061fa5e",
-      "size": 71484,
-      "source": "server_copy",
-      "updated": 1786671476,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3657694399__1786671476__newclothesmodelswinterhat.zip",
+      "updated": 1791488450,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3657694399__1791488450__newclothesmodelsshoes.zip",
       "workshop_id": "3657694399"
     },
     "playable_pool": {
@@ -1313,7 +1309,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-10T08:02:53.489472+00:00",
+  "generated_utc": "2026-10-10T08:19:30.615601+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
