@@ -668,6 +668,7 @@
       "asset": "3811256204__1791643334__ProjectViewpointQOL.zip",
       "sha256": "3ee85c151a320d45eceae6867b581a2702eb906513e8a57f06babb3186228074",
       "size": 915020,
+      "source": "server_copy",
       "updated": 1791643334,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811256204__1791643334__ProjectViewpointQOL.zip",
       "workshop_id": "3811256204"
@@ -1343,7 +1344,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-11T17:02:21.901266+00:00",
+  "generated_utc": "2026-10-11T17:03:31.071033+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
