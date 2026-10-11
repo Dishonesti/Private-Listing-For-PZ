@@ -225,6 +225,7 @@
       "asset": "3786970737__1791190953__EPR.zip",
       "sha256": "bc74054fad7f93d2e474cfcf2b2700cac388f60c7b306de89820664443c01bca",
       "size": 434159,
+      "source": "server_copy",
       "updated": 1791190953,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3786970737__1791190953__EPR.zip",
       "workshop_id": "3786970737"
@@ -233,6 +234,7 @@
       "asset": "3786970737__1791190953__EPRZB.zip",
       "sha256": "f86afed10a6acc1d195a1b6e90a3e28e0c5d0cc710c6bfe91b8409bcb1f02402",
       "size": 74086,
+      "source": "server_copy",
       "updated": 1791190953,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3786970737__1791190953__EPRZB.zip",
       "workshop_id": "3786970737"
@@ -285,6 +287,15 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3549794747__1756666587__Eyewear_rework_project.zip",
       "workshop_id": "3549794747"
     },
+    "FasterLootLoading": {
+      "asset": "3803834251__1790264945__FasterLootLoading.zip",
+      "sha256": "a4ef3f6055e397c571a7f5e7cb8ea468498013a90b03f6981c90c569229980a5",
+      "size": 39260,
+      "source": "server_copy",
+      "updated": 1790264945,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3803834251__1790264945__FasterLootLoading.zip",
+      "workshop_id": "3803834251"
+    },
     "Firearm Radial Plus": {
       "asset": "3414778453__1743222073__Firearm_Radial_Plus.zip",
       "partial_item": true,
@@ -299,6 +310,7 @@
       "asset": "3814560827__1791391273__FishingView.zip",
       "sha256": "1cfa79e60889e1b80c1670df8206c0c2cb6df7a50e313b150770cd1bcc24f13a",
       "size": 180465,
+      "source": "server_copy",
       "updated": 1791391273,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814560827__1791391273__FishingView.zip",
       "workshop_id": "3814560827"
@@ -363,6 +375,7 @@
       "asset": "3810071828__1791570489__ImmersiveSnow.zip",
       "sha256": "1bc2b13c13efa12bda05572f6e4c792dae46d8de5620f6a82838b0bac09b23a3",
       "size": 15029767,
+      "source": "server_copy",
       "updated": 1791570489,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810071828__1791570489__ImmersiveSnow.zip",
       "workshop_id": "3810071828"
@@ -443,16 +456,18 @@
     },
     "KnoxBuildworks": {
       "asset": "3772269882__1791035873__KnoxBuildworks.zip",
-      "sha256": "b8b9f66940c8d52dee4612f90e3cd7ed9d4d1abef6616b4128141e1427eb5302",
+      "sha256": "708cf7c4ab7d2cfe6420b31cde47edc1b90029ff0a7e72c136df80e5e2c24cac",
       "size": 3563120,
+      "source": "server_copy",
       "updated": 1791035873,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3772269882__1791035873__KnoxBuildworks.zip",
       "workshop_id": "3772269882"
     },
     "KnoxBuildworks_Vanilla_Expanded": {
       "asset": "3772269882__1791035873__KnoxBuildworks_Vanilla_Expanded.zip",
-      "sha256": "35c687c6228ad32afa7e517cae5deb51ebd56402d176ee2442ce0b05156b67de",
+      "sha256": "6076b8d1caae895596adb5c0e776b67099ca8f0ee5c329644b972afd6a39ef2d",
       "size": 797299,
+      "source": "server_copy",
       "updated": 1791035873,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3772269882__1791035873__KnoxBuildworks_Vanilla_Expanded.zip",
       "workshop_id": "3772269882"
@@ -461,6 +476,7 @@
       "asset": "3814302595__1791646849__KnoxPower.zip",
       "sha256": "0604e35ff4c4450ad987dd9182941bc806b24c8ba016e8a3b035923b4a0f132e",
       "size": 516056,
+      "source": "server_copy",
       "updated": 1791646849,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814302595__1791646849__KnoxPower.zip",
       "workshop_id": "3814302595"
@@ -539,6 +555,7 @@
       "asset": "3634630898__1791419795__OCsChallengeTraits.zip",
       "sha256": "e17a471c6d4fad3e75727964235e8496cb9504a30d62ae9e091d7f1761cdfb74",
       "size": 114452,
+      "source": "server_copy",
       "updated": 1791419795,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3634630898__1791419795__OCsChallengeTraits.zip",
       "workshop_id": "3634630898"
@@ -558,6 +575,15 @@
       "updated": 1791596280,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2544353492__1791596280__P4HasBeenRead.zip",
       "workshop_id": "2544353492"
+    },
+    "P4MySoCalledBag": {
+      "asset": "2823166698__1785773341__P4MySoCalledBag.zip",
+      "sha256": "e54bebf8732ed124c0453f0e6e2b61d80e768a6ccb7685c2d2b02acbf006f852",
+      "size": 2645567,
+      "source": "server_copy",
+      "updated": 1785773341,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2823166698__1785773341__P4MySoCalledBag.zip",
+      "workshop_id": "2823166698"
     },
     "PV-modmapbakefix": {
       "asset": "3813929757__1791682495__PV-modmapbakefix.zip",
@@ -709,6 +735,7 @@
       "asset": "3810188405__1791333855__Sewars.zip",
       "sha256": "d74a0ee292381a10c9639132201d3b2931a0e1d3b94c8930520bc9516078d50f",
       "size": 2346555,
+      "source": "server_copy",
       "updated": 1791333855,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810188405__1791333855__Sewars.zip",
       "workshop_id": "3810188405"
@@ -853,6 +880,7 @@
       "asset": "3808944882__1791566201__SurvivorBriefing.zip",
       "sha256": "4e4173b92ca7f4f9ddaffe13b6ab0d09d531d26b57e25915f7ffb48ef5c66a03",
       "size": 153996,
+      "source": "server_copy",
       "updated": 1791566201,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3808944882__1791566201__SurvivorBriefing.zip",
       "workshop_id": "3808944882"
@@ -991,6 +1019,7 @@
       "asset": "3813194971__1791185974__ViewpointAdvancedThrowables.zip",
       "sha256": "8d8153a3c870cafac7deee22f841bd582dcadd452931f605c8d39288a272ce31",
       "size": 952545,
+      "source": "server_copy",
       "updated": 1791185974,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813194971__1791185974__ViewpointAdvancedThrowables.zip",
       "workshop_id": "3813194971"
@@ -1072,6 +1101,7 @@
       "asset": "3812984535__1791346096__ViewpointImmersiveEffects.zip",
       "sha256": "0857196dfe2a88442faf64a2f59ab71f092e21fb654b1e7963a3b1522d76409e",
       "size": 355558,
+      "source": "server_copy",
       "updated": 1791346096,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3812984535__1791346096__ViewpointImmersiveEffects.zip",
       "workshop_id": "3812984535"
@@ -1182,6 +1212,7 @@
       "asset": "3814073243__1791648229__ZombieVisibilityFix.zip",
       "sha256": "bdf4282be81ff3d7e8e33378cca28f0f62a075e79d120e099a36ba9a4d6f08ef",
       "size": 52877,
+      "source": "server_copy",
       "updated": 1791648229,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814073243__1791648229__ZombieVisibilityFix.zip",
       "workshop_id": "3814073243"
@@ -1206,6 +1237,7 @@
       "asset": "3817018338__1791652115__batman_BeltRadio.zip",
       "sha256": "f301250f709028740e44f166e2c18196b373d555add4ebf9970b1ff0483639c5",
       "size": 47842,
+      "source": "server_copy",
       "updated": 1791652115,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817018338__1791652115__batman_BeltRadio.zip",
       "workshop_id": "3817018338"
@@ -1361,7 +1393,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-11T15:26:49.382257+00:00",
+  "generated_utc": "2026-10-11T15:53:04.686068+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
