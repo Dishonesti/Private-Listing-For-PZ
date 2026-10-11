@@ -24,14 +24,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3786074122__1791441582__AircraftMod.zip",
       "workshop_id": "3786074122"
     },
-    "Animations Smooth Sync Vehicle 42.13.2": {
-      "asset": "3670959466__1771996419__Animations_Smooth_Sync_Vehicle_42.13.2.zip",
-      "sha256": "82a5bf4b90cd017c483b095ee38c0e295104f09f3514e71b784590514b2434e6",
-      "size": 1129831,
-      "updated": 1771996419,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3670959466__1771996419__Animations_Smooth_Sync_Vehicle_42.13.2.zip",
-      "workshop_id": "3670959466"
-    },
     "AutotsarMotorClub": {
       "asset": "3404737883__1791132200__AutotsarMotorClub.zip",
       "sha256": "1459e001a27417303dd035eac6768d366510a4068df4dc480a89bcdb70c97956",
@@ -533,16 +525,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3796483217__1789662428__NPCBases.zip",
       "workshop_id": "3796483217"
     },
-    "Neat_Building": {
-      "asset": "3536052310__1791551060__Neat_Building.zip",
-      "partial_item": true,
-      "sha256": "8c27b28b4e3713c3cde9327b377fce85196c3932b6b453abfda849674d904df6",
-      "size": 4841314,
-      "source": "server_copy",
-      "updated": 1791551060,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3536052310__1791551060__Neat_Building.zip",
-      "workshop_id": "3536052310"
-    },
     "Nellis Air Force Base": {
       "asset": "3783433804__1787438368__Nellis_Air_Force_Base.zip",
       "sha256": "d43abdf610e74035b884a6517cad4e6732042d35d474bee22edff626c64a785d",
@@ -688,16 +670,6 @@
       "updated": 1791662725,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815931973__1791662725__ProjectViewpointShelves.zip",
       "workshop_id": "3815931973"
-    },
-    "Project_Cook": {
-      "asset": "3490188370__1791637118__Project_Cook.zip",
-      "partial_item": true,
-      "sha256": "74a1e17d5b4125482624774aaf61f96f5932964c4754029c8c53f78f9517bad7",
-      "size": 2592027,
-      "source": "server_copy",
-      "updated": 1791637118,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3490188370__1791637118__Project_Cook.zip",
-      "workshop_id": "3490188370"
     },
     "RCStructureFramework": {
       "asset": "3718883428__1791422034__RCStructureFramework.zip",
@@ -951,22 +923,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810658607__1791574347__Trash_and_Corpses_B42.21_Temporary_Fix.zip",
       "workshop_id": "3810658607"
     },
-    "TrueSwimming": {
-      "asset": "3802372726__1791492607__TrueSwimming.zip",
-      "sha256": "0d8b45fba28c74915c5163ad102d2ebccb29faa8db7fcc89405c9cb1fd8a7480",
-      "size": 1639220,
-      "updated": 1791492607,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3802372726__1791492607__TrueSwimming.zip",
-      "workshop_id": "3802372726"
-    },
-    "TryBeforeYouWear": {
-      "asset": "3797492691__1791145790__TryBeforeYouWear.zip",
-      "sha256": "661a180a94dcfda9a56575d353bf6e692acfbcb4efc026bf09c9ba78037ff2d5",
-      "size": 2477872,
-      "updated": 1791145790,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3797492691__1791145790__TryBeforeYouWear.zip",
-      "workshop_id": "3797492691"
-    },
     "Uncensored Bandit Lines": {
       "asset": "3350120501__1767305929__Uncensored_Bandit_Lines.zip",
       "sha256": "01c7b346fc49ca84ee1764cfd7a3b7ab2f4aa2ef5dcdaf2a533b6bb426c0d464",
@@ -1055,15 +1011,6 @@
       "updated": 1791065804,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3812932905__1791065804__ViewpointBuildingAlignment.zip",
       "workshop_id": "3812932905"
-    },
-    "ViewpointCar": {
-      "asset": "3810724915__1791259038__ViewpointCar.zip",
-      "sha256": "59eafb960e07c774a490020faac2099857bff154454040c2de749608470feae2",
-      "size": 323516,
-      "source": "server_copy",
-      "updated": 1791259038,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810724915__1791259038__ViewpointCar.zip",
-      "workshop_id": "3810724915"
     },
     "ViewpointDoor": {
       "asset": "3812151347__1791700308__ViewpointDoor.zip",
@@ -1216,14 +1163,6 @@
       "updated": 1791648229,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814073243__1791648229__ZombieVisibilityFix.zip",
       "workshop_id": "3814073243"
-    },
-    "[SVRP] ClassicBows": {
-      "asset": "3776949545__1791474918__SVRP__ClassicBows.zip",
-      "sha256": "e29e095f8db3cdd3ae1dd840a5a0e14ae44da453d4cfc57bf96bda805f37374a",
-      "size": 20691939,
-      "updated": 1791474918,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3776949545__1791474918__SVRP__ClassicBows.zip",
-      "workshop_id": "3776949545"
     },
     "alicesKitsunesCrossbowMod": {
       "asset": "3783567014__1791326902__alicesKitsunesCrossbowMod.zip",
@@ -1393,7 +1332,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-11T15:53:04.686068+00:00",
+  "generated_utc": "2026-10-11T16:20:55.862256+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
