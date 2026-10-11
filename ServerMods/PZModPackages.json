@@ -473,24 +473,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3809551601__1791627796__KnoxAirfield.zip",
       "workshop_id": "3809551601"
     },
-    "KnoxBuildworks": {
-      "asset": "3772269882__1791035873__KnoxBuildworks.zip",
-      "sha256": "708cf7c4ab7d2cfe6420b31cde47edc1b90029ff0a7e72c136df80e5e2c24cac",
-      "size": 3563120,
-      "source": "server_copy",
-      "updated": 1791035873,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3772269882__1791035873__KnoxBuildworks.zip",
-      "workshop_id": "3772269882"
-    },
-    "KnoxBuildworks_Vanilla_Expanded": {
-      "asset": "3772269882__1791035873__KnoxBuildworks_Vanilla_Expanded.zip",
-      "sha256": "6076b8d1caae895596adb5c0e776b67099ca8f0ee5c329644b972afd6a39ef2d",
-      "size": 797299,
-      "source": "server_copy",
-      "updated": 1791035873,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3772269882__1791035873__KnoxBuildworks_Vanilla_Expanded.zip",
-      "workshop_id": "3772269882"
-    },
     "KnoxPower": {
       "asset": "3814302595__1791646849__KnoxPower.zip",
       "sha256": "0604e35ff4c4450ad987dd9182941bc806b24c8ba016e8a3b035923b4a0f132e",
@@ -1361,7 +1343,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-11T16:24:07.495444+00:00",
+  "generated_utc": "2026-10-11T17:02:21.901266+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
