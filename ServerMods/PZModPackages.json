@@ -57,6 +57,24 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3807677836__1791235382__BadlandsGarage.zip",
       "workshop_id": "3807677836"
     },
+    "BadlandsGreenhouse": {
+      "asset": "3807333290__1791097215__BadlandsGreenhouse.zip",
+      "sha256": "6aca76145beb91146aed804a91ae310ba0949d01121d455f83c70856eedf8e80",
+      "size": 541659,
+      "source": "server_copy",
+      "updated": 1791097215,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3807333290__1791097215__BadlandsGreenhouse.zip",
+      "workshop_id": "3807333290"
+    },
+    "BadlandsPosters": {
+      "asset": "3806390808__1790717752__BadlandsPosters.zip",
+      "sha256": "e457e161d44f20404a9bbafd7866664d4e672f7c48dee50a5a170c0dda67d9c2",
+      "size": 1749774,
+      "source": "server_copy",
+      "updated": 1790717752,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3806390808__1790717752__BadlandsPosters.zip",
+      "workshop_id": "3806390808"
+    },
     "BadlandsTabletop": {
       "asset": "3808817996__1791360130__BadlandsTabletop.zip",
       "sha256": "adf30fa4f6e232deff9a1e009b8da6d37d1440869b537b560d72e3a51e6436b4",
@@ -306,6 +324,15 @@
       "updated": 1791391273,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814560827__1791391273__FishingView.zip",
       "workshop_id": "3814560827"
+    },
+    "FullBookcases": {
+      "asset": "3804156157__1790894488__FullBookcases.zip",
+      "sha256": "41fdefed3492eecdcebd0c667dfb6145b8e86354329e540822da020e7f6eb6df",
+      "size": 15005338,
+      "source": "server_copy",
+      "updated": 1790894488,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3804156157__1790894488__FullBookcases.zip",
+      "workshop_id": "3804156157"
     },
     "FunctionalGutters": {
       "asset": "3439305933__1788638047__FunctionalGutters.zip",
@@ -1032,6 +1059,7 @@
       "asset": "3814994364__1791402480__ViewpointForaging.zip",
       "sha256": "0be240040a8998bac4b0f32a4fcc2fe851311c767f47ce6caac52420e6d95f67",
       "size": 1382485,
+      "source": "server_copy",
       "updated": 1791402480,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814994364__1791402480__ViewpointForaging.zip",
       "workshop_id": "3814994364"
@@ -1089,6 +1117,7 @@
       "asset": "3814178814__1791476152__ViewpointTileFix.zip",
       "sha256": "ebe56801dae6fbb049b994941c5723e18794b17ca3453125d7f36c1968514780",
       "size": 215517028,
+      "source": "server_copy",
       "updated": 1791476152,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814178814__1791476152__ViewpointTileFix.zip",
       "workshop_id": "3814178814"
@@ -1332,7 +1361,7 @@
       "workshop_id": "3806020504"
     }
   },
-  "generated_utc": "2026-10-11T16:20:55.862256+00:00",
+  "generated_utc": "2026-10-11T16:24:07.495444+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
