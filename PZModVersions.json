@@ -1,6 +1,6 @@
 {
   "app_id": 108600,
-  "generated_utc": "2026-10-11T15:25:56.785646+00:00",
+  "generated_utc": "2026-10-11T16:20:54.315438+00:00",
   "items": {
     "1926311864": {
       "title": "Soul Filcher's Clearing Time",
@@ -977,11 +977,6 @@
       "updated": 1762306769,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3479464117"
     },
-    "3490188370": {
-      "title": "Project Cook [B42]",
-      "updated": 1791637118,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3490188370"
-    },
     "3490370700": {
       "title": "'73 Ford Falcon",
       "updated": 1789062293,
@@ -1007,11 +1002,6 @@
       "updated": 1772133050,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3504401781"
     },
-    "3508537032": {
-      "title": "NeatUI Framework [B42]",
-      "updated": 1789992909,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3508537032"
-    },
     "3508590486": {
       "title": "Better Jaw Stabs [B42.21 SP/MP]",
       "updated": 1788169292,
@@ -1031,11 +1021,6 @@
       "title": "Vanilla Bandits Integration",
       "updated": 1759526272,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3528198375"
-    },
-    "3536052310": {
-      "title": "Neat Building [B42]",
-      "updated": 1791551060,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3536052310"
     },
     "3539339798": {
       "title": "Hacking Skill",
@@ -1441,11 +1426,6 @@
       "title": "Container Tags [B42]",
       "updated": 1787838105,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3670220111"
-    },
-    "3670959466": {
-      "title": "Sync smooth car animations 42.20",
-      "updated": 1771996419,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3670959466"
     },
     "3671176591": {
       "title": "dustinguished bolt cutters",
@@ -2322,11 +2302,6 @@
       "updated": 1788471081,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3776875714"
     },
-    "3776949545": {
-      "title": "[SVRP] ClassicBows",
-      "updated": 1791474918,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3776949545"
-    },
     "3777287872": {
       "title": "New Music: Frank Sinatra - My Way",
       "updated": 1785810273,
@@ -3017,11 +2992,6 @@
       "updated": 1789022976,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3797309561"
     },
-    "3797492691": {
-      "title": "Try Before You Wear",
-      "updated": 1791145790,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3797492691"
-    },
     "3797745688": {
       "title": "[B42MP] Excavation Indoor Patch",
       "updated": 1789923512,
@@ -3126,11 +3096,6 @@
       "title": "[42.20.4MP] Gunworks Heavy Ordnance",
       "updated": 1789904810,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802070967"
-    },
-    "3802372726": {
-      "title": "True Swimming",
-      "updated": 1791492607,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802372726"
     },
     "3802480042": {
       "title": "PM2 - Complete Repair Overhaul",
@@ -3357,11 +3322,6 @@
       "updated": 1790778034,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810688371"
     },
-    "3810724915": {
-      "title": "[OBSOLETE] Car Fix - Project Viewpoint",
-      "updated": 1791259038,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810724915"
-    },
     "3810876724": {
       "title": "Remove & Install Doors [B42.21] - Single & Double Doors",
       "updated": 1791485310,
@@ -3401,11 +3361,6 @@
       "title": "Zombie Dismemberment",
       "updated": 1791424695,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811483602"
-    },
-    "3811495292": {
-      "title": "[OBSOLETE] Fire Fix - Project Viewpoint",
-      "updated": 1791163999,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811495292"
     },
     "3811601101": {
       "title": "Shield Up",
@@ -3522,11 +3477,6 @@
       "updated": 1791164932,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813801053"
     },
-    "3813815383": {
-      "title": "[OBSOLETE] Menu Fix - Project Viewpoint",
-      "updated": 1791167445,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813815383"
-    },
     "3813929757": {
       "title": "Project Viewpoint: KK's General Mod Map Fix",
       "updated": 1791682495,
@@ -3538,7 +3488,7 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814073243"
     },
     "3814178814": {
-      "title": "Viewpoint Tile Fix - Complete Roofs V1.2",
+      "title": "Viewpoint Tile Fix - Complete Roofs V1.3",
       "updated": 1791476152,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814178814"
     },
