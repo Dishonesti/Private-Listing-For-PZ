@@ -1,6 +1,6 @@
 {
   "app_id": 108600,
-  "generated_utc": "2026-10-12T03:12:51.933705+00:00",
+  "generated_utc": "2026-10-12T05:22:44.000831+00:00",
   "items": {
     "1926311864": {
       "title": "Soul Filcher's Clearing Time",
@@ -601,11 +601,6 @@
       "title": "[B41/B42] Elyon Lib",
       "updated": 1782024366,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3384377738"
-    },
-    "3387110070": {
-      "title": "They Knew [B42]",
-      "updated": 1734599196,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3387110070"
     },
     "3387957272": {
       "title": "[B42.20] Detailed Descriptions for Occupations and Traits",
@@ -1212,6 +1207,11 @@
       "updated": 1785088269,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3614959302"
     },
+    "3615135168": {
+      "title": "Zombie Virus Vaccine [B42.14 to B42.20 - SP/MP]",
+      "updated": 1790177804,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3615135168"
+    },
     "3615957778": {
       "title": "[B42] KI5 Vehicles Repair Fix",
       "updated": 1764594364,
@@ -1426,6 +1426,11 @@
       "title": "Container Tags [B42]",
       "updated": 1787838105,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3670220111"
+    },
+    "3670959466": {
+      "title": "Sync smooth car animations 42.20",
+      "updated": 1771996419,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3670959466"
     },
     "3671176591": {
       "title": "dustinguished bolt cutters",
@@ -1891,11 +1896,6 @@
       "title": "New Music - The Full Collection",
       "updated": 1782453259,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3750282386"
-    },
-    "3750289416": {
-      "title": "They Knew [B42] - 42.19 Fix",
-      "updated": 1790251883,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3750289416"
     },
     "3750907049": {
       "title": "Full Dynamic Scarring System!!(B42/B41)",
@@ -3447,6 +3447,11 @@
       "updated": 1791185974,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813194971"
     },
+    "3813362974": {
+      "title": "They Knew Continued",
+      "updated": 1791745576,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813362974"
+    },
     "3813406470": {
       "title": "Cry of Fear Monster NPCs [Beta]",
       "updated": 1791466860,
@@ -3472,10 +3477,20 @@
       "updated": 1791164932,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813801053"
     },
+    "3813857786": {
+      "title": "Fletcher: Archery Overhaul",
+      "updated": 1791755161,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813857786"
+    },
     "3813929757": {
       "title": "Project Viewpoint: KK's General Mod Map Fix",
       "updated": 1791682495,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813929757"
+    },
+    "3813943783": {
+      "title": "Item Arrange Extension",
+      "updated": 1791731636,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813943783"
     },
     "3814073243": {
       "title": "Zombie Visibility Fix + Stair-O-Vision",
@@ -3486,6 +3501,11 @@
       "title": "Viewpoint Tile Fix - Complete Roofs V1.3",
       "updated": 1791476152,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814178814"
+    },
+    "3814256463": {
+      "title": "4K for TV & Radio ReInvented",
+      "updated": 1791242148,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814256463"
     },
     "3814302595": {
       "title": "Knox Power",
@@ -3532,20 +3552,70 @@
       "updated": 1791342458,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815033191"
     },
+    "3815250847": {
+      "title": "Basement Stair Clip Fix",
+      "updated": 1791380610,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815250847"
+    },
+    "3815531837": {
+      "title": "Viewpoint Bunker Fix",
+      "updated": 1791412739,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815531837"
+    },
     "3815630947": {
       "title": "Viewpoint Rolling Hills",
       "updated": 1791700322,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815630947"
+    },
+    "3815681289": {
+      "title": "True Vehicle Hit",
+      "updated": 1791476613,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815681289"
     },
     "3815931973": {
       "title": "Project Viewpoint: KK's Shelves in 3D",
       "updated": 1791662725,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815931973"
     },
+    "3816442251": {
+      "title": "Viewpoint: Living Props",
+      "updated": 1791751374,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816442251"
+    },
+    "3816625730": {
+      "title": "Sliding Gates",
+      "updated": 1791733982,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816625730"
+    },
+    "3816856700": {
+      "title": "Yeah it's water bitch-(!!!!UPDATE!!!!)",
+      "updated": 0,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816856700"
+    },
     "3817018338": {
       "title": "Belt Walkie-Talkie",
       "updated": 1791652115,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817018338"
+    },
+    "3817281714": {
+      "title": "Absolute Respawn Vehicles",
+      "updated": 1791658250,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817281714"
+    },
+    "3817294484": {
+      "title": "Viewpoint - Roofs (WIP)",
+      "updated": 1791772430,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817294484"
+    },
+    "3817413313": {
+      "title": "Project Viewpoint - Immersive Driving",
+      "updated": 1791682638,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817413313"
+    },
+    "3817555882": {
+      "title": "Rolling Hills Physics Addon (Project Viewpoint)",
+      "updated": 1791689720,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817555882"
     }
   },
   "schema": 1,
