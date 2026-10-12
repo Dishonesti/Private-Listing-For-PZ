@@ -1377,12 +1377,12 @@
       "workshop_id": "3817294484"
     },
     "ViewpointSurface": {
-      "asset": "3814398576__1791698095__ViewpointSurface.zip",
-      "sha256": "a80b8ddd602b786291d1591db8eb31f76b5b0216b38b9a7e0cd20aa40c8b7ad9",
-      "size": 327167,
+      "asset": "3814398576__1353733456__ViewpointSurface.zip",
+      "sha256": "901947ea2750556abca10fd9c238497e4d7169913e9e9dafa5c1c380890ac750",
+      "size": 333828,
       "source": "server_copy",
-      "updated": 1791698095,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814398576__1791698095__ViewpointSurface.zip",
+      "updated": 1353733456,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814398576__1353733456__ViewpointSurface.zip",
       "workshop_id": "3814398576"
     },
     "ViewpointTileFix": {
@@ -1647,6 +1647,15 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3806020504__1790960183__thisIsMe-TraitsMP.zip",
       "workshop_id": "3806020504"
     },
+    "tsarslib": {
+      "asset": "3402491515__1788789456__tsarslib.zip",
+      "sha256": "7716f05d27b8c2a0fcb9f65cf9daf5da1bfa9c78ce63d2afdc4c74177308c83c",
+      "size": 8383001,
+      "source": "server_copy",
+      "updated": 1788789456,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3402491515__1788789456__tsarslib.zip",
+      "workshop_id": "3402491515"
+    },
     "undying_optimizer": {
       "asset": "3777958977__1789683093__undying_optimizer.zip",
       "sha256": "e6e87182c138cf0e9a9cafc0dc0b6190f7f2547a79fb8bd4b564f93ad015eea8",
@@ -1666,7 +1675,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-12T11:00:49.106812+00:00",
+  "generated_utc": "2026-10-12T14:29:27.173237+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
