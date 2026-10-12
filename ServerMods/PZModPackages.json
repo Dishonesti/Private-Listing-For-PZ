@@ -1312,6 +1312,7 @@
       "asset": "3815630947__1791700322__ViewpointRollingHills.zip",
       "sha256": "a0f7f9518f7579994fab3d3fe9d54fc38884838b2b171682356a47adc08fc38d",
       "size": 273732,
+      "source": "server_copy",
       "updated": 1791700322,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815630947__1791700322__ViewpointRollingHills.zip",
       "workshop_id": "3815630947"
@@ -1596,9 +1597,18 @@
       "updated": 1789683093,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3777958977__1789683093__undying_optimizer.zip",
       "workshop_id": "3777958977"
+    },
+    "yeahbitch": {
+      "asset": "3816856700__1401929976__yeahbitch.zip",
+      "sha256": "d586b3e1f8253e20018ce094274e1b8a39a633dd4596058846515b6953689c9f",
+      "size": 985283,
+      "source": "server_copy",
+      "updated": 1401929976,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3816856700__1401929976__yeahbitch.zip",
+      "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-12T05:23:24.043250+00:00",
+  "generated_utc": "2026-10-12T05:24:07.123031+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
