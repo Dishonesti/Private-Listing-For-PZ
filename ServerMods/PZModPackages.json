@@ -424,6 +424,7 @@
       "asset": "3813857786__1791755161__Fletcher.zip",
       "sha256": "9d59a3d017c3c2400aa1657716621dbb85de72e5d5b50a123242e92eec10aba3",
       "size": 20901034,
+      "source": "server_copy",
       "updated": 1791755161,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813857786__1791755161__Fletcher.zip",
       "workshop_id": "3813857786"
@@ -432,6 +433,7 @@
       "asset": "3813857786__1791755161__FletcherViewpoint.zip",
       "sha256": "92ae3047a416d7444e3378b958e8a595ebb5628895e3cebdaa8620e50e7f7c90",
       "size": 11802,
+      "source": "server_copy",
       "updated": 1791755161,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813857786__1791755161__FletcherViewpoint.zip",
       "workshop_id": "3813857786"
@@ -1237,6 +1239,15 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3501302358__1791041827__VehicleSeatUIKI5.zip",
       "workshop_id": "3501302358"
     },
+    "Viewpoint": {
+      "asset": "3817282776__1314647085__Viewpoint.zip",
+      "sha256": "438a248ca5c18fb4733ae560908b5233d773f021ec497af5e7839a2ec901d517",
+      "size": 33381749,
+      "source": "server_copy",
+      "updated": 1314647085,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817282776__1314647085__Viewpoint.zip",
+      "workshop_id": "3817282776"
+    },
     "ViewpointAdvancedThrowables": {
       "asset": "3813194971__1791185974__ViewpointAdvancedThrowables.zip",
       "sha256": "8d8153a3c870cafac7deee22f841bd582dcadd452931f605c8d39288a272ce31",
@@ -1663,7 +1674,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-12T06:24:01.626033+00:00",
+  "generated_utc": "2026-10-12T06:25:59.927120+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
