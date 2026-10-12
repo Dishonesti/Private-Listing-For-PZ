@@ -1,6 +1,6 @@
 {
   "app_id": 108600,
-  "generated_utc": "2026-10-12T06:23:26.666403+00:00",
+  "generated_utc": "2026-10-12T11:00:05.817822+00:00",
   "items": {
     "1926311864": {
       "title": "Soul Filcher's Clearing Time",
@@ -1076,11 +1076,6 @@
       "title": "Darker Map & Satellite View",
       "updated": 1786768161,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3571222611"
-    },
-    "3572564421": {
-      "title": "TwisTonFire - minimap",
-      "updated": 1786848190,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3572564421"
     },
     "3573119313": {
       "title": "Reward Night Combat [B42]",
@@ -2463,7 +2458,7 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3780257415"
     },
     "3780298456": {
-      "title": "Brita's Armor Pack B42.20 - Standalone Armor Port & Multilingual Fix",
+      "title": "Brita's Armor Pack B42.+ - Standalone Armor Port & Multilingual Fix",
       "updated": 1788814583,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3780298456"
     },
@@ -3319,7 +3314,7 @@
     },
     "3811256204": {
       "title": "Project Viewpoint QOL",
-      "updated": 1791643334,
+      "updated": 1791762491,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811256204"
     },
     "3811308208": {
@@ -3329,7 +3324,7 @@
     },
     "3811344119": {
       "title": "Light Fix - Project Viewpoint",
-      "updated": 1791714300,
+      "updated": 1791754356,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811344119"
     },
     "3811472160": {
@@ -3379,7 +3374,7 @@
     },
     "3812151347": {
       "title": "Door Fix - Project Viewpoint",
-      "updated": 1791700308,
+      "updated": 1791761069,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3812151347"
     },
     "3812222734": {
@@ -3453,7 +3448,7 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813413282"
     },
     "3813428248": {
-      "title": "Viewpoint - Snow Fix",
+      "title": "Viewpoint - Snow Fix Outdated",
       "updated": 1791134953,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813428248"
     },
@@ -3494,7 +3489,7 @@
     },
     "3814178814": {
       "title": "Viewpoint Tile Fix - Complete Roofs V1.3",
-      "updated": 1791476152,
+      "updated": 1791733318,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814178814"
     },
     "3814302595": {
@@ -3504,7 +3499,7 @@
     },
     "3814398576": {
       "title": "Surface Fix - Project Viewpoint",
-      "updated": 1791698095,
+      "updated": 0,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814398576"
     },
     "3814486926": {
@@ -3534,12 +3529,12 @@
     },
     "3815019204": {
       "title": "Project Viewpoint - KI5 Vehicle Parts Fix",
-      "updated": 1791583190,
+      "updated": 1791745931,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815019204"
     },
     "3815033191": {
       "title": "Barricade Fix - Project Viewpoint",
-      "updated": 1791342458,
+      "updated": 1791761450,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815033191"
     },
     "3815250847": {
@@ -3569,7 +3564,7 @@
     },
     "3815931973": {
       "title": "Project Viewpoint: KK's Shelves in 3D",
-      "updated": 1791662725,
+      "updated": 1791779513,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815931973"
     },
     "3816222711": {
@@ -3614,7 +3609,7 @@
     },
     "3817282776": {
       "title": "Viewpoint - FOV & Vehicle Culling Fix (Build 42)",
-      "updated": 0,
+      "updated": 1791663811,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817282776"
     },
     "3817294484": {
