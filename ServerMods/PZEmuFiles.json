@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "updated": "2026-10-12T03:19:33+00:00",
+  "workshop_id": "3812894986",
+  "lua_target": "mods/LiterallyPlayableVGCEmulation/42/media/lua/client/LocalVGC/Handhelds.lua",
+  "files": {
+    "lua/Handhelds.lua": {
+      "kind": "lua",
+      "rel": "Handhelds.lua",
+      "size": 6731,
+      "sha256": "633e87c22b7f1b25fcb5514dac2c774ace352deb51ed99467dd6097c43cd15e8",
+      "asset": "pzemu__633e87c22b7f__Handhelds.lua",
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/pzemu__633e87c22b7f__Handhelds.lua"
+    },
+    "roms/Super Mario World (U) [!].smc": {
+      "kind": "rom",
+      "rel": "Super Mario World (U) [!].smc",
+      "size": 524800,
+      "sha256": "d70c9c7716ad12c674fc7dd744736aa48d4d7b4237f58066be620fda26024872",
+      "asset": "pzemu__d70c9c7716ad__Super_Mario_World__U_____.smc",
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/pzemu__d70c9c7716ad__Super_Mario_World__U_____.smc"
+    }
+  }
+}
