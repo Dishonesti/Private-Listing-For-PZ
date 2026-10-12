@@ -215,6 +215,7 @@
       "asset": "3813943783__1791731636__CAItemArrangeExtension.zip",
       "sha256": "a0f1a46270e70ef95b67018e5955045ac0265528f6af0239a0ff5474486e98d7",
       "size": 342343,
+      "source": "server_copy",
       "updated": 1791731636,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813943783__1791731636__CAItemArrangeExtension.zip",
       "workshop_id": "3813943783"
@@ -258,6 +259,7 @@
       "asset": "3750253491__1791815381__CommonSense.zip",
       "sha256": "5fc0a036328227b831d95a0a9821eb24f12a550ddf5935374c9a4777217d6b93",
       "size": 416709,
+      "source": "server_copy",
       "updated": 1791815381,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3750253491__1791815381__CommonSense.zip",
       "workshop_id": "3750253491"
@@ -455,10 +457,20 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3439305933__1788638047__FunctionalGutters.zip",
       "workshop_id": "3439305933"
     },
+    "FurniturePushPull": {
+      "asset": "3781319724__1790782585__FurniturePushPull.zip",
+      "sha256": "d0540ee5954fe24b700c6bcaa24a0f470d124c13677b3e91497214c1f5946738",
+      "size": 137218,
+      "source": "server_copy",
+      "updated": 1790782585,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3781319724__1790782585__FurniturePushPull.zip",
+      "workshop_id": "3781319724"
+    },
     "GoMAttachmentWorkbench": {
       "asset": "3798555914__1791660173__GoMAttachmentWorkbench.zip",
       "sha256": "917a9978d7dd35f3c268b90f46b2cd7d68efe15fa759b9382eaffc6ed7cb20e2",
       "size": 558062,
+      "source": "server_copy",
       "updated": 1791660173,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3798555914__1791660173__GoMAttachmentWorkbench.zip",
       "workshop_id": "3798555914"
@@ -1662,7 +1674,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-12T16:49:08.635199+00:00",
+  "generated_utc": "2026-10-12T17:15:45.537487+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
