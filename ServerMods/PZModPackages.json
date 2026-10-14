@@ -16,22 +16,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2409333430__1791483143__91range.zip",
       "workshop_id": "2409333430"
     },
-    "AbsoluteRespawnVehicles": {
-      "asset": "3817281714__1791658250__AbsoluteRespawnVehicles.zip",
-      "sha256": "21855cb0a818ae38b9c53969ee41b4ba8b80d805fdbe262e460a9af6812ad766",
-      "size": 268877,
-      "updated": 1791658250,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817281714__1791658250__AbsoluteRespawnVehicles.zip",
-      "workshop_id": "3817281714"
-    },
-    "AircraftMod": {
-      "asset": "3786074122__1791441582__AircraftMod.zip",
-      "sha256": "6b529053141ab0cfa0fef29865825cf3b222c6c6b9e5fa35622a598f1339ef6f",
-      "size": 3980117,
-      "updated": 1791441582,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3786074122__1791441582__AircraftMod.zip",
-      "workshop_id": "3786074122"
-    },
     "Animations Smooth Sync Vehicle 42.13.2": {
       "asset": "3670959466__1771996419__Animations_Smooth_Sync_Vehicle_42.13.2.zip",
       "sha256": "82a5bf4b90cd017c483b095ee38c0e295104f09f3514e71b784590514b2434e6",
@@ -238,15 +222,6 @@
       "updated": 1791731636,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813943783__1791731636__CAItemArrangeExtension.zip",
       "workshop_id": "3813943783"
-    },
-    "Cessna172": {
-      "asset": "3794278331__1791440913__Cessna172.zip",
-      "sha256": "99683758a7bf49536315245f8491197576f96aa1296b57d86ff5b69111d598b6",
-      "size": 6293255,
-      "source": "server_copy",
-      "updated": 1791440913,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3794278331__1791440913__Cessna172.zip",
-      "workshop_id": "3794278331"
     },
     "ChestRigWebbing": {
       "asset": "3784322163__1787368619__ChestRigWebbing.zip",
@@ -1163,16 +1138,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3389605231__1791190973__TchernoLib.zip",
       "workshop_id": "3389605231"
     },
-    "TheEndCredits": {
-      "asset": "3699490974__1786613943__TheEndCredits.zip",
-      "partial_item": true,
-      "sha256": "7e1753dd81a977bbe1d6d7b146b8a19b86fe3672a9e7ca4595ec84498fbbf8bf",
-      "size": 134298,
-      "source": "server_copy",
-      "updated": 1786613943,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3699490974__1786613943__TheEndCredits.zip",
-      "workshop_id": "3699490974"
-    },
     "TheWalkingZomboidCompleteB42": {
       "asset": "3816222711__1791614354__TheWalkingZomboidCompleteB42.zip",
       "sha256": "cc7b976f7bde6990ccabe3e8948b70be4669d6050f33165b14f9263149318a77",
@@ -1719,7 +1684,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-14T09:11:37.174108+00:00",
+  "generated_utc": "2026-10-14T20:46:06.550689+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
