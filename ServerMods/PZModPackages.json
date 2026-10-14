@@ -466,15 +466,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3781319724__1790782585__FurniturePushPull.zip",
       "workshop_id": "3781319724"
     },
-    "GoMAttachmentWorkbench": {
-      "asset": "3798555914__1791660173__GoMAttachmentWorkbench.zip",
-      "sha256": "917a9978d7dd35f3c268b90f46b2cd7d68efe15fa759b9382eaffc6ed7cb20e2",
-      "size": 558062,
-      "source": "server_copy",
-      "updated": 1791660173,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3798555914__1791660173__GoMAttachmentWorkbench.zip",
-      "workshop_id": "3798555914"
-    },
     "GridInventory": {
       "asset": "3782313362__1791765389__GridInventory.zip",
       "sha256": "52565c7dbd8fd5b5223f5161549b836a2c2e421e9f8255ad9c94af6e254ce56f",
@@ -1243,14 +1234,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3501302358__1791041827__VehicleSeatUIKI5.zip",
       "workshop_id": "3501302358"
     },
-    "Viewpoint": {
-      "asset": "3817282776__1791663811__Viewpoint.zip",
-      "sha256": "ab2dc189f5b34ae00ad460f63c36468efe07cc3fccaa97f405f3b22b9beb5ffb",
-      "size": 2782593,
-      "updated": 1791663811,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817282776__1791663811__Viewpoint.zip",
-      "workshop_id": "3817282776"
-    },
     "ViewpointAdvancedThrowables": {
       "asset": "3813194971__1791695698__ViewpointAdvancedThrowables.zip",
       "sha256": "6aaaf7b0e78cbabe85c8146aeef006725426bea83b2eaed6383aecb3aa06535d",
@@ -1267,14 +1250,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815033191__1791761450__ViewpointBarricade.zip",
       "workshop_id": "3815033191"
     },
-    "ViewpointBetterWindow": {
-      "asset": "3814787969__1791309235__ViewpointBetterWindow.zip",
-      "sha256": "823dfa89e17715e5140a2558c22b3d89e5e9ecc4fd87a8e20e4b3feda55e9cbf",
-      "size": 150702,
-      "updated": 1791309235,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814787969__1791309235__ViewpointBetterWindow.zip",
-      "workshop_id": "3814787969"
-    },
     "ViewpointBloodFX": {
       "asset": "3811472160__1791253979__ViewpointBloodFX.zip",
       "sha256": "63b1f326f619d3cc072af50c2f0bf8a2f0d46416cdb3d535c9df0ea8c4a33a9f",
@@ -1282,14 +1257,6 @@
       "updated": 1791253979,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811472160__1791253979__ViewpointBloodFX.zip",
       "workshop_id": "3811472160"
-    },
-    "ViewpointBuildingAlignment": {
-      "asset": "3812932905__1791065804__ViewpointBuildingAlignment.zip",
-      "sha256": "89a0ec9fc5b4bf3568aa1447cac8dc45414b56c8555673936444a3269884e985",
-      "size": 18550,
-      "updated": 1791065804,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3812932905__1791065804__ViewpointBuildingAlignment.zip",
-      "workshop_id": "3812932905"
     },
     "ViewpointBunkerFix": {
       "asset": "3815531837__1791412739__ViewpointBunkerFix.zip",
@@ -1371,14 +1338,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815630947__1791775639__ViewpointRollingHills.zip",
       "workshop_id": "3815630947"
     },
-    "ViewpointRoofs": {
-      "asset": "3817294484__1791772430__ViewpointRoofs.zip",
-      "sha256": "27b856580e1097df465057422356541a83900f7e705a942c3407233d41c96384",
-      "size": 66029729,
-      "updated": 1791772430,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817294484__1791772430__ViewpointRoofs.zip",
-      "workshop_id": "3817294484"
-    },
     "ViewpointSurface": {
       "asset": "3814398576__1791796156__ViewpointSurface.zip",
       "sha256": "4c8e6f7e8e92dab93668257f6cd8169fe03cce463b7ab2bec964ec3002301779",
@@ -1386,14 +1345,6 @@
       "updated": 1791796156,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814398576__1791796156__ViewpointSurface.zip",
       "workshop_id": "3814398576"
-    },
-    "ViewpointTileFix": {
-      "asset": "3814178814__1791733318__ViewpointTileFix.zip",
-      "sha256": "34a1b4fbda029dbc65db462f831f88b11ce08a872b2b4b0e2445df6c033439ba",
-      "size": 215495712,
-      "updated": 1791733318,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814178814__1791733318__ViewpointTileFix.zip",
-      "workshop_id": "3814178814"
     },
     "ViewpointVisibleLoot": {
       "asset": "3818189653__1791757548__ViewpointVisibleLoot.zip",
@@ -1674,7 +1625,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-12T17:15:45.537487+00:00",
+  "generated_utc": "2026-10-14T08:36:18.575829+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
