@@ -1745,24 +1745,6 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3716934959__1791495080__playable_pool.zip",
       "workshop_id": "3716934959"
     },
-    "projecthierarchy": {
-      "asset": "3818269998__1791770371__projecthierarchy.zip",
-      "sha256": "b965f1d17a5e35998facb90ab4912a78d0c3934691859b7952c904f93e6f990e",
-      "size": 81371,
-      "source": "server_copy",
-      "updated": 1791770371,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818269998__1791770371__projecthierarchy.zip",
-      "workshop_id": "3818269998"
-    },
-    "projecttogether": {
-      "asset": "3816411863__1791822587__projecttogether.zip",
-      "sha256": "7b5b4a7b6c4f7226163a106f3cda3d8639033f4885d053f4319e30bf3368b3da",
-      "size": 85932,
-      "source": "server_copy",
-      "updated": 1791822587,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3816411863__1791822587__projecttogether.zip",
-      "workshop_id": "3816411863"
-    },
     "rSemiTruck": {
       "asset": "3409472393__1790971578__rSemiTruck.zip",
       "partial_item": true,
@@ -1851,7 +1833,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-15T00:33:35.677139+00:00",
+  "generated_utc": "2026-10-15T02:01:16.499365+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
