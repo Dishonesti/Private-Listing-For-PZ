@@ -461,21 +461,21 @@
       "workshop_id": "3814560827"
     },
     "Fletcher": {
-      "asset": "3813857786__1791755161__Fletcher.zip",
-      "sha256": "9d59a3d017c3c2400aa1657716621dbb85de72e5d5b50a123242e92eec10aba3",
-      "size": 20901034,
+      "asset": "3813857786__1791937341__Fletcher.zip",
+      "sha256": "e1dd9997fc54a8e27094c2cd1d1cb44fdaf48008dbd0d0fd651cb6e20fc50cb8",
+      "size": 20915878,
       "source": "server_copy",
-      "updated": 1791755161,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813857786__1791755161__Fletcher.zip",
+      "updated": 1791937341,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813857786__1791937341__Fletcher.zip",
       "workshop_id": "3813857786"
     },
     "FletcherViewpoint": {
-      "asset": "3813857786__1791755161__FletcherViewpoint.zip",
-      "sha256": "92ae3047a416d7444e3378b958e8a595ebb5628895e3cebdaa8620e50e7f7c90",
-      "size": 11802,
+      "asset": "3813857786__1791937341__FletcherViewpoint.zip",
+      "sha256": "f69c93b0cd1990fa4a1df4ee1df96cf70e1495bd4b9f8bb5b6a992a388ffdb19",
+      "size": 14659,
       "source": "server_copy",
-      "updated": 1791755161,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813857786__1791755161__FletcherViewpoint.zip",
+      "updated": 1791937341,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813857786__1791937341__FletcherViewpoint.zip",
       "workshop_id": "3813857786"
     },
     "FullBookcases": {
@@ -681,6 +681,7 @@
       "asset": "3815896393__1791653836__KentuckyOnline.zip",
       "sha256": "dedea9d486cec0bd11dee041fa8fc83e2877416f30aaec4e421c61a034aa5421",
       "size": 3645945,
+      "source": "server_copy",
       "updated": 1791653836,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815896393__1791653836__KentuckyOnline.zip",
       "workshop_id": "3815896393"
@@ -1225,21 +1226,21 @@
       "workshop_id": "3816222711"
     },
     "TheyKnewContinued": {
-      "asset": "3813362974__1791745576__TheyKnewContinued.zip",
-      "sha256": "1c04334d6521480e36912a90eecb6f1e5e30779bec335cb217b5d74b853e3899",
-      "size": 1253781,
+      "asset": "3813362974__1791842723__TheyKnewContinued.zip",
+      "sha256": "431b4396ccb620b19cdb8e446d9eb41fad26e68d65ea5f4ae02c1692cd24f0aa",
+      "size": 1254699,
       "source": "server_copy",
-      "updated": 1791745576,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813362974__1791745576__TheyKnewContinued.zip",
+      "updated": 1791842723,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813362974__1791842723__TheyKnewContinued.zip",
       "workshop_id": "3813362974"
     },
     "TheyKnewContinued_ZVV": {
-      "asset": "3813362974__1791745576__TheyKnewContinued_ZVV.zip",
+      "asset": "3813362974__1791842723__TheyKnewContinued_ZVV.zip",
       "sha256": "d310f32e6b8368bc5959f6343716521130aa8671e79b2c6c7f8f02dbd9bfbe03",
       "size": 284608,
       "source": "server_copy",
-      "updated": 1791745576,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813362974__1791745576__TheyKnewContinued_ZVV.zip",
+      "updated": 1791842723,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813362974__1791842723__TheyKnewContinued_ZVV.zip",
       "workshop_id": "3813362974"
     },
     "Throwables": {
@@ -1542,6 +1543,7 @@
       "asset": "3819322670__1791928427__VisibleHelicopterEvent.zip",
       "sha256": "74fd9f9aa7950375d2772737d91b5577bf865a248cf419112680a58f61a1aad1",
       "size": 910443,
+      "source": "server_copy",
       "updated": 1791928427,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3819322670__1791928427__VisibleHelicopterEvent.zip",
       "workshop_id": "3819322670"
@@ -1573,6 +1575,15 @@
       "updated": 1791565138,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2914817886__1791565138__Wear_overalls_with_vests.zip",
       "workshop_id": "2914817886"
+    },
+    "WorldspaceAmmoHUD": {
+      "asset": "3813725230__1791997243__WorldspaceAmmoHUD.zip",
+      "sha256": "fd3c7dcb5b5a33f35eec4dd20b52ecdfe352eb788233282de04c34485f274253",
+      "size": 8780,
+      "source": "server_copy",
+      "updated": 1791997243,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813725230__1791997243__WorldspaceAmmoHUD.zip",
+      "workshop_id": "3813725230"
     },
     "Yaki's Hair Salon New Texture - ADDON": {
       "asset": "2761200458__1790981504__Yaki_s_Hair_Salon_New_Texture_-_ADDON.zip",
@@ -1635,12 +1646,12 @@
       "workshop_id": "3783567014"
     },
     "batman_BeltRadio": {
-      "asset": "3817018338__1791652115__batman_BeltRadio.zip",
-      "sha256": "f301250f709028740e44f166e2c18196b373d555add4ebf9970b1ff0483639c5",
-      "size": 47842,
+      "asset": "3817018338__1791667468__batman_BeltRadio.zip",
+      "sha256": "cd4e494336376963f5bc99f89abf6d96a7356bedc40671f911acadae3c277995",
+      "size": 48486,
       "source": "server_copy",
-      "updated": 1791652115,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817018338__1791652115__batman_BeltRadio.zip",
+      "updated": 1791667468,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817018338__1791667468__batman_BeltRadio.zip",
       "workshop_id": "3817018338"
     },
     "batman_MilitaryDrop": {
@@ -1825,21 +1836,22 @@
       "asset": "3777958977__1791758940__undying_optimizer.zip",
       "sha256": "82548139c9b6e0387567a7e7a467a0465f58d1f53dbbd3dbc1fcfdc4d10ee04f",
       "size": 174933,
+      "source": "server_copy",
       "updated": 1791758940,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3777958977__1791758940__undying_optimizer.zip",
       "workshop_id": "3777958977"
     },
     "yeahbitch": {
-      "asset": "3816856700__1791813283__yeahbitch.zip",
-      "sha256": "b7b929f2cbb0a6b079664bfdde7281bc3d62f205811d308d59d2d3219cc7e5e9",
-      "size": 1599150,
+      "asset": "3816856700__1791949675__yeahbitch.zip",
+      "sha256": "0993c8926066690a516444f5025e30ca3506fc3236da24524ec8eb6c219d38cd",
+      "size": 1610420,
       "source": "server_copy",
-      "updated": 1791813283,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3816856700__1791813283__yeahbitch.zip",
+      "updated": 1791949675,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3816856700__1791949675__yeahbitch.zip",
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-15T00:32:51.293709+00:00",
+  "generated_utc": "2026-10-15T00:33:35.677139+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
