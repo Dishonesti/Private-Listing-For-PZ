@@ -1,6 +1,6 @@
 {
   "app_id": 108600,
-  "generated_utc": "2026-10-14T20:46:04.960611+00:00",
+  "generated_utc": "2026-10-15T00:32:30.511201+00:00",
   "items": {
     "1926311864": {
       "title": "Soul Filcher's Clearing Time",
@@ -329,7 +329,7 @@
     },
     "2999595757": {
       "title": "Wallpapers and More Paint Options [B41|B42]",
-      "updated": 0,
+      "updated": 1791788707,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2999595757"
     },
     "3001592312": {
@@ -1362,6 +1362,11 @@
       "updated": 1789534939,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3652012357"
     },
+    "3653007556": {
+      "title": "Zone Loot Refill (B42 Stable) - MP",
+      "updated": 1791775984,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3653007556"
+    },
     "3653092321": {
       "title": "Immersive Hotwire",
       "updated": 1774023661,
@@ -1834,7 +1839,7 @@
     },
     "3746632343": {
       "title": "Bundle Up! - A Packing Mod",
-      "updated": 0,
+      "updated": 1791939575,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3746632343"
     },
     "3748141823": {
@@ -2982,6 +2987,11 @@
       "updated": 1789576336,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3798530362"
     },
+    "3798555914": {
+      "title": "[GoM|Emre|GGS] Guns Attachment Workbench",
+      "updated": 1791894846,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3798555914"
+    },
     "3798792768": {
       "title": "Computer Mod - New Music Integration",
       "updated": 1788988493,
@@ -3259,7 +3269,7 @@
     },
     "3810638546": {
       "title": "Timber! - Working Chainsaw",
-      "updated": 0,
+      "updated": 1791836623,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810638546"
     },
     "3810658607": {
@@ -3284,7 +3294,7 @@
     },
     "3811256204": {
       "title": "Project Viewpoint QOL",
-      "updated": 0,
+      "updated": 1349725984,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3811256204"
     },
     "3811308208": {
@@ -3408,7 +3418,7 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813413282"
     },
     "3813477039": {
-      "title": "KNOX TV",
+      "title": "",
       "updated": 1791738650,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3813477039"
     },
@@ -3522,6 +3532,11 @@
       "updated": 1791960959,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815681289"
     },
+    "3815737507": {
+      "title": "GoM Attachment Workbench - Big UI",
+      "updated": 1791455943,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815737507"
+    },
     "3815775971": {
       "title": "FTZ Carts & Trolleys [B42]",
       "updated": 1791462115,
@@ -3537,6 +3552,11 @@
       "updated": 1791993236,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815931973"
     },
+    "3815999052": {
+      "title": "OldPoint - Rotating Overhead Camera [B42 / Viewpoint]",
+      "updated": 1792008008,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815999052"
+    },
     "3816180767": {
       "title": "Musician",
       "updated": 1791842491,
@@ -3551,11 +3571,6 @@
       "title": "Crash Through [B42.21] - Multiplayer Beta",
       "updated": 1791523788,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816241723"
-    },
-    "3816324722": {
-      "title": "Attachments UI [B42]",
-      "updated": 1791937692,
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816324722"
     },
     "3816411863": {
       "title": "Project Together [B42.21+/MP]",
@@ -3577,6 +3592,11 @@
       "updated": 1791710568,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816586790"
     },
+    "3816588758": {
+      "title": "Death Cam Mod for Project Viewpoint",
+      "updated": 1791822779,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816588758"
+    },
     "3816625730": {
       "title": "Sliding Gates",
       "updated": 1791839823,
@@ -3586,6 +3606,11 @@
       "title": "Clean Freak Plus - Bleach, Soap & Cleaning Liquid Last Longer",
       "updated": 1791591026,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816763055"
+    },
+    "3816784011": {
+      "title": "Viewpoint - Smooth Frames",
+      "updated": 1791767182,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3816784011"
     },
     "3816856700": {
       "title": "Yeah it's water bitch-(fix-update)",
@@ -3597,6 +3622,11 @@
       "updated": 1791667468,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817018338"
     },
+    "3817190138": {
+      "title": "Burning Vehicles [B42]",
+      "updated": 1791680200,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817190138"
+    },
     "3817413313": {
       "title": "Project Viewpoint - Immersive Driving",
       "updated": 1791682638,
@@ -3606,6 +3636,16 @@
       "title": "Rolling Hills Physics Addon (Project Viewpoint)",
       "updated": 1791689720,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817555882"
+    },
+    "3817732616": {
+      "title": "[B42] Last Signal - DIY Base Security | Viewpoint 3D",
+      "updated": 1791874916,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817732616"
+    },
+    "3817842243": {
+      "title": "Viewpoint Fixes V2-0.1.6a",
+      "updated": 1791866567,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817842243"
     },
     "3818039291": {
       "title": "Steel Sights: Tank Gunner Overhaul + M1 Abrams [B42]",
@@ -3632,6 +3672,11 @@
       "updated": 1791822827,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3818605688"
     },
+    "3818700431": {
+      "title": "Viewpoint\u2019s Models Overhaul",
+      "updated": 1791923404,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3818700431"
+    },
     "3818733381": {
       "title": "The Only Cure+ (Field Surgery)",
       "updated": 1791938428,
@@ -3651,6 +3696,11 @@
       "title": "Viewpoint - Right Click Fix",
       "updated": 1791951023,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3819018807"
+    },
+    "3819322670": {
+      "title": "Project Viewpoint - Visible Helicopter Events",
+      "updated": 1791928427,
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3819322670"
     }
   },
   "schema": 1,
