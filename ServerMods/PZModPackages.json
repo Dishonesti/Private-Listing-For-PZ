@@ -732,6 +732,15 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3809553440__1792046373__M1Abrams.zip",
       "workshop_id": "3809553440"
     },
+    "MadCrafter": {
+      "asset": "3418701509__1785423044__MadCrafter.zip",
+      "sha256": "e81aef9b79eb3c5e920241d68f1709480cd2792f31f4e76b7408d6a4526eeb19",
+      "size": 41407852,
+      "source": "server_copy",
+      "updated": 1785423044,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3418701509__1785423044__MadCrafter.zip",
+      "workshop_id": "3418701509"
+    },
     "MetalConvertBench": {
       "asset": "3796643764__1791213877__MetalConvertBench.zip",
       "partial_item": true,
@@ -1616,6 +1625,7 @@
       "asset": "3814073243__1792000830__ZombieVisibilityFix.zip",
       "sha256": "fce373ac99505510a2da90b7532ba7bf845c1283f3cd7b43dddc251146495301",
       "size": 47087,
+      "source": "server_copy",
       "updated": 1792000830,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814073243__1792000830__ZombieVisibilityFix.zip",
       "workshop_id": "3814073243"
@@ -1821,7 +1831,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-15T13:44:48.031992+00:00",
+  "generated_utc": "2026-10-15T13:47:43.250205+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
