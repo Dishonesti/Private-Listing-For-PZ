@@ -159,6 +159,14 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818859807__1791950534__BasileDoors3D.zip",
       "workshop_id": "3818859807"
     },
+    "BetterSafehouse": {
+      "asset": "3634569678__1787866390__BetterSafehouse.zip",
+      "sha256": "2eeff9c246291175c1439fe98a71dd39cabf9960dd126aed7351aec61fe25937",
+      "size": 1873116,
+      "updated": 1787866390,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3634569678__1787866390__BetterSafehouse.zip",
+      "workshop_id": "3634569678"
+    },
     "Bicycle": {
       "asset": "3461415167__1787524008__Bicycle.zip",
       "sha256": "d631538258fe20e4bb0281dc958cf81b7dd0876dddd3ff74ce35c590834f3785",
@@ -540,14 +548,6 @@
       "updated": 1789904775,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3722134990__1789904775__GunsOfMarz.zip",
       "workshop_id": "3722134990"
-    },
-    "Helicopter Event Expansion Framework": {
-      "asset": "3672792485__1791756363__Helicopter_Event_Expansion_Framework.zip",
-      "sha256": "076e653947bc9257092342917e0844701f843c472677019e0451ca388959081f",
-      "size": 103209485,
-      "updated": 1791756363,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3672792485__1791756363__Helicopter_Event_Expansion_Framework.zip",
-      "workshop_id": "3672792485"
     },
     "HoldTheDoor": {
       "asset": "3813413282__1791361956__HoldTheDoor.zip",
@@ -1833,7 +1833,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-15T02:01:16.499365+00:00",
+  "generated_utc": "2026-10-15T04:20:58.244470+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
