@@ -531,12 +531,12 @@
       "workshop_id": "3798555914"
     },
     "GridInventory": {
-      "asset": "3782313362__1791765389__GridInventory.zip",
-      "sha256": "52565c7dbd8fd5b5223f5161549b836a2c2e421e9f8255ad9c94af6e254ce56f",
-      "size": 518787,
+      "asset": "3782313362__1791941165__GridInventory.zip",
+      "sha256": "da66ea135f36431fbc54f0dbb367863bc1bc00dcddf7f7ead7a031edb358c187",
+      "size": 545611,
       "source": "server_copy",
-      "updated": 1791765389,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3782313362__1791765389__GridInventory.zip",
+      "updated": 1791941165,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3782313362__1791941165__GridInventory.zip",
       "workshop_id": "3782313362"
     },
     "GunsOfMarz": {
@@ -1217,6 +1217,15 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3389605231__1791190973__TchernoLib.zip",
       "workshop_id": "3389605231"
     },
+    "TheOnlyCurePlus": {
+      "asset": "3818733381__1791938428__TheOnlyCurePlus.zip",
+      "sha256": "59f20af63802a6819b1f75fb37db52852921f745b253853459e013739bcb9d27",
+      "size": 25989348,
+      "source": "server_copy",
+      "updated": 1791938428,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818733381__1791938428__TheOnlyCurePlus.zip",
+      "workshop_id": "3818733381"
+    },
     "TheWalkingZomboidCompleteB42": {
       "asset": "3816222711__1791614354__TheWalkingZomboidCompleteB42.zip",
       "sha256": "cc7b976f7bde6990ccabe3e8948b70be4669d6050f33165b14f9263149318a77",
@@ -1833,7 +1842,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-15T04:20:58.244470+00:00",
+  "generated_utc": "2026-10-15T04:21:27.132491+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
