@@ -608,13 +608,13 @@
       "workshop_id": "3782313362"
     },
     "GunsOfMarz": {
-      "asset": "3722134990__1789904775__GunsOfMarz.zip",
+      "asset": "3722134990__1792133186__GunsOfMarz.zip",
       "partial_item": true,
-      "sha256": "2a58f631936895e9fbf249f1bfb03bcc4573fca931888c8e53902b1efc57bb41",
-      "size": 26229032,
+      "sha256": "daa244db5ec2c22a3939add1b78bc9d841a0d113ae005f924f1049fe145f20e8",
+      "size": 28944800,
       "source": "server_copy",
-      "updated": 1789904775,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3722134990__1789904775__GunsOfMarz.zip",
+      "updated": 1792133186,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3722134990__1792133186__GunsOfMarz.zip",
       "workshop_id": "3722134990"
     },
     "Gunworks_gang_framework": {
@@ -643,23 +643,23 @@
       "workshop_id": "3793875056"
     },
     "Hot_Brass_Ammo_Crafting": {
-      "asset": "3610677934__1789904735__Hot_Brass_Ammo_Crafting.zip",
+      "asset": "3610677934__1792133167__Hot_Brass_Ammo_Crafting.zip",
       "partial_item": true,
-      "sha256": "4a619c4906cf0c2751bf9684737f84626036657f35ad1bf2b1b1d9918f348be1",
-      "size": 3957408,
+      "sha256": "28c13fa7fef75ed3809665dcf50c0f43a9e1b154312c6bd8dfe021b1b4d36eef",
+      "size": 3788660,
       "source": "server_copy",
-      "updated": 1789904735,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3610677934__1789904735__Hot_Brass_Ammo_Crafting.zip",
+      "updated": 1792133167,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3610677934__1792133167__Hot_Brass_Ammo_Crafting.zip",
       "workshop_id": "3610677934"
     },
     "Hot_Brass_Visible_Casing_Ejection_Framework": {
-      "asset": "3610677934__1789904735__Hot_Brass_Visible_Casing_Ejection_Framework.zip",
+      "asset": "3610677934__1792133167__Hot_Brass_Visible_Casing_Ejection_Framework.zip",
       "partial_item": true,
-      "sha256": "790594e5d84173722f79c004d0c8fac949c3af2057f0e9f59b812322434d3ae9",
-      "size": 6538299,
+      "sha256": "a43a83cae7803ae34bce2323d7111c272fd5340b2f2eaec3b2e4ee7494f12ef1",
+      "size": 6565908,
       "source": "server_copy",
-      "updated": 1789904735,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3610677934__1789904735__Hot_Brass_Visible_Casing_Ejection_Framework.zip",
+      "updated": 1792133167,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3610677934__1792133167__Hot_Brass_Visible_Casing_Ejection_Framework.zip",
       "workshop_id": "3610677934"
     },
     "ImmersiveDriving": {
@@ -1013,6 +1013,7 @@
       "asset": "3811256204__1791981271__ProjectViewpointQOL.zip",
       "sha256": "d519aaf72bf35e1ecf7b59656f84de225de5fb080e4d99c1c9ce0a5282d28ae9",
       "size": 936886,
+      "source": "server_copy",
       "updated": 1791981271,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811256204__1791981271__ProjectViewpointQOL.zip",
       "workshop_id": "3811256204"
@@ -1310,11 +1311,13 @@
       "workshop_id": "3389605231"
     },
     "TheOnlyCurePlus": {
-      "asset": "3818733381__1792041072__TheOnlyCurePlus.zip",
-      "sha256": "3a8c0d683dd51da2026d1aa06a41824d0d0f780c02512e0c0aa6fbef71259501",
-      "size": 33246437,
-      "updated": 1792041072,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818733381__1792041072__TheOnlyCurePlus.zip",
+      "asset": "3818733381__1792124262__TheOnlyCurePlus.zip",
+      "partial_item": true,
+      "sha256": "28dfdc5ad2eb3dd413a828ced8c24237302935f3c44ca36a8ce30edb6dc0fe92",
+      "size": 33325591,
+      "source": "server_copy",
+      "updated": 1792124262,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818733381__1792124262__TheOnlyCurePlus.zip",
       "workshop_id": "3818733381"
     },
     "TheWalkingZomboidCompleteB42": {
@@ -1633,6 +1636,15 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3807182783__1791396702__Visible_Vehicle_Coupling.zip",
       "workshop_id": "3807182783"
     },
+    "VisibleDoorDamage": {
+      "asset": "3799596085__1789224066__VisibleDoorDamage.zip",
+      "sha256": "e1354512d0c1918d25e71c57627ef3af5ba371f032fb0e1115d0681172681bf2",
+      "size": 82538702,
+      "source": "server_copy",
+      "updated": 1789224066,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3799596085__1789224066__VisibleDoorDamage.zip",
+      "workshop_id": "3799596085"
+    },
     "VisibleHelicopterEvent": {
       "asset": "3819322670__1792025008__VisibleHelicopterEvent.zip",
       "sha256": "503d50a4cc0e84a2bc9df0bc92d00af4b295828c80b89358b7ece6871eeec203",
@@ -1642,13 +1654,13 @@
       "workshop_id": "3819322670"
     },
     "Wallpapers": {
-      "asset": "2999595757__1791788707__Wallpapers.zip",
+      "asset": "2999595757__1792133924__Wallpapers.zip",
       "partial_item": true,
-      "sha256": "69acc1c0860dfae0b0595b151a5a7e8f7190b4d4654f9ea18eed6e13177f6017",
-      "size": 163373519,
+      "sha256": "0153339bd1145fe0d2672004903c36522d4e0d1826cbb01f92a76106a6a17058",
+      "size": 113580460,
       "source": "server_copy",
-      "updated": 1791788707,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2999595757__1791788707__Wallpapers.zip",
+      "updated": 1792133924,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2999595757__1792133924__Wallpapers.zip",
       "workshop_id": "2999595757"
     },
     "WaterPipes": {
@@ -1920,7 +1932,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-16T11:08:25.765013+00:00",
+  "generated_utc": "2026-10-16T11:13:18.648453+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
