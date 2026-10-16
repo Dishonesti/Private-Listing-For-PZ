@@ -428,6 +428,7 @@
       "asset": "3816180767__1792034571__DeadAir.zip",
       "sha256": "a770835e7cadcdc2c0200a7738f62333bb7ea9e1e02694895a4c5313d1ad8ce7",
       "size": 35230095,
+      "source": "server_copy",
       "updated": 1792034571,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3816180767__1792034571__DeadAir.zip",
       "workshop_id": "3816180767"
@@ -1997,7 +1998,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-16T23:17:14.748827+00:00",
+  "generated_utc": "2026-10-16T23:39:07.020761+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
