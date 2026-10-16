@@ -1,6 +1,6 @@
 {
   "app_id": 108600,
-  "generated_utc": "2026-10-16T12:17:17.249581+00:00",
+  "generated_utc": "2026-10-16T23:12:15.717504+00:00",
   "items": {
     "1926311864": {
       "title": "Soul Filcher's Clearing Time",
@@ -3013,7 +3013,7 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799523320"
     },
     "3799596085": {
-      "title": "Visible Door Damage [B42 MP]",
+      "title": "Visible Door Damage [B42 MP] - Viewpoint compatible",
       "updated": 1789224066,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799596085"
     },
@@ -3549,7 +3549,7 @@
     },
     "3815999052": {
       "title": "OldPoint - Rotating Overhead Camera [B42 / Viewpoint]",
-      "updated": 1792093611,
+      "updated": 1792152488,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3815999052"
     },
     "3816180767": {
@@ -3634,7 +3634,7 @@
     },
     "3817842243": {
       "title": "Viewpoint Fixes",
-      "updated": 1791866567,
+      "updated": 1792152186,
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3817842243"
     },
     "3818039291": {
