@@ -666,6 +666,7 @@
       "asset": "3817413313__1791682638__ImmersiveDriving.zip",
       "sha256": "edadb724625a04a5daca134c8bcab9418c274f4f97f6d7d4ac3c88722d00c63b",
       "size": 135630,
+      "source": "server_copy",
       "updated": 1791682638,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817413313__1791682638__ImmersiveDriving.zip",
       "workshop_id": "3817413313"
@@ -880,11 +881,12 @@
       "workshop_id": "3634630898"
     },
     "OldPoint": {
-      "asset": "3815999052__1792093611__OldPoint.zip",
+      "asset": "3815999052__1792152488__OldPoint.zip",
       "sha256": "00e530f659156e2c7dc30e74866309d5d76ad534e626646d642623ac17f611db",
       "size": 583369,
-      "updated": 1792093611,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815999052__1792093611__OldPoint.zip",
+      "source": "server_copy",
+      "updated": 1792152488,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815999052__1792152488__OldPoint.zip",
       "workshop_id": "3815999052"
     },
     "OnanGenSet": {
@@ -1537,11 +1539,12 @@
       "workshop_id": "3814486926"
     },
     "ViewpointFixesV0.1.6a": {
-      "asset": "3817842243__1791866567__ViewpointFixesV0.1.6a.zip",
+      "asset": "3817842243__1792152186__ViewpointFixesV0.1.6a.zip",
       "sha256": "4301dbe1fae227231a6b53621a1c521f8cb63f3e6a5b73fc84f3bd42c50b0bdc",
       "size": 32845,
-      "updated": 1791866567,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817842243__1791866567__ViewpointFixesV0.1.6a.zip",
+      "source": "server_copy",
+      "updated": 1792152186,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817842243__1792152186__ViewpointFixesV0.1.6a.zip",
       "workshop_id": "3817842243"
     },
     "ViewpointForaging": {
@@ -1932,7 +1935,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-16T11:13:18.648453+00:00",
+  "generated_utc": "2026-10-16T12:18:35.037803+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
