@@ -392,6 +392,7 @@
       "asset": "3818873810__1792081315__DGVCurtains.zip",
       "sha256": "02b7c4b67782abde241d0703eb8fd27e4678849d93b85ac079b8989ef7883532",
       "size": 15294483,
+      "source": "server_copy",
       "updated": 1792081315,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818873810__1792081315__DGVCurtains.zip",
       "workshop_id": "3818873810"
@@ -1998,7 +1999,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-17T02:05:40.195270+00:00",
+  "generated_utc": "2026-10-17T02:24:34.067660+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
