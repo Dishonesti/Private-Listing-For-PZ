@@ -112,6 +112,14 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3703948448__1792694998__79camaro.zip",
       "workshop_id": "3703948448"
     },
+    "80manKat1": {
+      "asset": "3248388837__1793126658__80manKat1.zip",
+      "sha256": "4ededd47d1629f8d8203eca1f99eb7bc138be98b66b0b4c04c1eda10d7833a98",
+      "size": 7823876,
+      "updated": 1793126658,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3248388837__1793126658__80manKat1.zip",
+      "workshop_id": "3248388837"
+    },
     "82firebird": {
       "asset": "3320947974__1792695042__82firebird.zip",
       "sha256": "2ebb2632d5d5b7e205421cc951c99fe234951f2644c54d295a4bfbb3ce9e76dc",
@@ -144,6 +152,30 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2886832257__1792695086__82jeepJ10t.zip",
       "workshop_id": "2886832257"
     },
+    "82porsche911": {
+      "asset": "3379334330__1793302929__82porsche911.zip",
+      "sha256": "668674a17d72f62c622e153868d3bb6bbf4f6fd8bb0009a52008892cdd9b158e",
+      "size": 23026029,
+      "updated": 1793302929,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3379334330__1793302929__82porsche911.zip",
+      "workshop_id": "3379334330"
+    },
+    "83amgeneralM923": {
+      "asset": "2811383142__1793126474__83amgeneralM923.zip",
+      "sha256": "8c15dd691669810fbd97a6f7b54300e09c8084e47cd5cae45f61313673073174",
+      "size": 11723901,
+      "updated": 1793126474,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2811383142__1793126474__83amgeneralM923.zip",
+      "workshop_id": "2811383142"
+    },
+    "83amgeneralM923extra": {
+      "asset": "2811383142__1793126474__83amgeneralM923extra.zip",
+      "sha256": "8403e8db72b048e0b9d5b13a73d5e74a41f733970a0a4917559cc8098f3a7a50",
+      "size": 918803,
+      "updated": 1793126474,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2811383142__1793126474__83amgeneralM923extra.zip",
+      "workshop_id": "2811383142"
+    },
     "83gmcGseriesVans": {
       "asset": "3799732653__1792695142__83gmcGseriesVans.zip",
       "sha256": "5d17b2b3bacbe93c838c9da3e6faf6975748d840e14fd2a9fedd13d21d5c8f4b",
@@ -159,6 +191,14 @@
       "updated": 1792695142,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3799732653__1792695142__83gmcVanduraATeam.zip",
       "workshop_id": "3799732653"
+    },
+    "84jeepXJ": {
+      "asset": "3409287192__1793126210__84jeepXJ.zip",
+      "sha256": "053a373b563402a501a4454519e915386f5e89c76958217613ef5777fb687b0c",
+      "size": 13954990,
+      "updated": 1793126210,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3409287192__1793126210__84jeepXJ.zip",
+      "workshop_id": "3409287192"
     },
     "85buickLeSabre": {
       "asset": "3418252689__1792695189__85buickLeSabre.zip",
@@ -193,66 +233,59 @@
       "workshop_id": "3052360250"
     },
     "89defender": {
-      "asset": "3570973322__1791483202__89defender.zip",
-      "sha256": "35309d8d1c5427a06415e8fd83b90aa1361fdf0e7e0bc113e61143f916424b60",
-      "size": 23275646,
-      "source": "server_copy",
-      "updated": 1791483202,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3570973322__1791483202__89defender.zip",
+      "asset": "3570973322__1793038894__89defender.zip",
+      "sha256": "900f4e85fbb61a171ce5fccb1c4e29b50dfd169b9443588354fd72bea3b5be71",
+      "size": 23275302,
+      "updated": 1793038894,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3570973322__1793038894__89defender.zip",
       "workshop_id": "3570973322"
     },
     "89dodgeCaravan": {
-      "asset": "3034636011__1770923986__89dodgeCaravan.zip",
-      "sha256": "e77dcb03f3a0064da80fac3edbef88961c7807406a16062ac6a35c2d80deacf6",
-      "size": 20250426,
-      "source": "server_copy",
-      "updated": 1770923986,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3034636011__1770923986__89dodgeCaravan.zip",
+      "asset": "3034636011__1793039138__89dodgeCaravan.zip",
+      "sha256": "574f85f41cc69e4dda52d7868bdad2813212ad4a32a2cd3a288b15ceee973afe",
+      "size": 20600795,
+      "updated": 1793039138,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3034636011__1793039138__89dodgeCaravan.zip",
       "workshop_id": "3034636011"
     },
     "89fordBronco": {
-      "asset": "2886833398__1775758271__89fordBronco.zip",
-      "sha256": "ad73d5196ff1b50504f713d2ecf4ff37ba17ef090ffd7db34296c87f11c4be42",
-      "size": 9503895,
-      "source": "server_copy",
-      "updated": 1775758271,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2886833398__1775758271__89fordBronco.zip",
+      "asset": "2886833398__1793039238__89fordBronco.zip",
+      "sha256": "86c4bd997ee1bef3b8915da5c2c10f0e2ab967fcae75e1dd9498599f11fcb810",
+      "size": 9807871,
+      "updated": 1793039238,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2886833398__1793039238__89fordBronco.zip",
       "workshop_id": "2886833398"
     },
     "89trooper": {
-      "asset": "2932549988__1770923900__89trooper.zip",
-      "sha256": "ae22795d80d16b46ce61ba17199a8493f5678bab47ef9e5c6473d64efde61184",
-      "size": 13566744,
-      "source": "server_copy",
-      "updated": 1770923900,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2932549988__1770923900__89trooper.zip",
+      "asset": "2932549988__1793038984__89trooper.zip",
+      "sha256": "515c159375d140bc59e59f3bc49cc04f890d9c5bfcbb4467dcb2cc0d7d883216",
+      "size": 13993812,
+      "updated": 1793038984,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2932549988__1793038984__89trooper.zip",
       "workshop_id": "2932549988"
     },
     "90bmwE30": {
-      "asset": "3110913021__1775758380__90bmwE30.zip",
-      "sha256": "27580d8cd602479dd4604b15d028ad1f4e7f9a51b813c75e7ae422392e0d0b9e",
-      "size": 23877483,
-      "source": "server_copy",
-      "updated": 1775758380,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3110913021__1775758380__90bmwE30.zip",
+      "asset": "3110913021__1793039195__90bmwE30.zip",
+      "sha256": "57d4b3e48b7eab531e9fc0a034239cf46aa38698cba2b1980d309910fe9d24d7",
+      "size": 23808216,
+      "updated": 1793039195,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3110913021__1793039195__90bmwE30.zip",
       "workshop_id": "3110913021"
     },
     "90fordF350ambulance": {
-      "asset": "2952802178__1779388362__90fordF350ambulance.zip",
-      "sha256": "de8f8d572d1b201b8e250589e6462d6f90dc0ab3838614940da35ac6484d5eea",
-      "size": 7732320,
-      "source": "server_copy",
-      "updated": 1779388362,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2952802178__1779388362__90fordF350ambulance.zip",
+      "asset": "2952802178__1793039086__90fordF350ambulance.zip",
+      "sha256": "f8948577701cc6ae672d2fc45cdffb3d29290384c6f6a08f4b7fbbcc688aa86d",
+      "size": 8076348,
+      "updated": 1793039086,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2952802178__1793039086__90fordF350ambulance.zip",
       "workshop_id": "2952802178"
     },
     "91nissan240sx": {
-      "asset": "3504401781__1772133050__91nissan240sx.zip",
-      "sha256": "64af04a06b5d0d0bb2e3483bc2ba930d717c6c64fbd8f5ce5cc5a445d50c7ccf",
-      "size": 10172265,
-      "source": "server_copy",
-      "updated": 1772133050,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3504401781__1772133050__91nissan240sx.zip",
+      "asset": "3504401781__1793039036__91nissan240sx.zip",
+      "sha256": "5ae1a58e2be334a25ee0ab8ee23c22a838f716a87d2fcf5ae8dbc1e6ea3fb0c0",
+      "size": 10572134,
+      "updated": 1793039036,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3504401781__1793039036__91nissan240sx.zip",
       "workshop_id": "3504401781"
     },
     "91range": {
@@ -263,14 +296,85 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2409333430__1791483143__91range.zip",
       "workshop_id": "2409333430"
     },
+    "92amgeneralM998": {
+      "asset": "2642541073__1793126528__92amgeneralM998.zip",
+      "sha256": "875354cf4673ff42aa7f0062e7e36da10436265597d81368bb5ca17f4a21149d",
+      "size": 20010191,
+      "updated": 1793126528,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2642541073__1793126528__92amgeneralM998.zip",
+      "workshop_id": "2642541073"
+    },
+    "92amgeneralM998extra": {
+      "asset": "2642541073__1793126528__92amgeneralM998extra.zip",
+      "sha256": "8052cbc2594c0e5d25ab46daf4e3417d166cdd69f4a978f2f17d32baef413601",
+      "size": 1401296,
+      "updated": 1793126528,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2642541073__1793126528__92amgeneralM998extra.zip",
+      "workshop_id": "2642541073"
+    },
+    "92jeepYJ": {
+      "asset": "3287727378__1793126264__92jeepYJ.zip",
+      "sha256": "e48c77c0f742b850ba89cbf3de4d496b3029f68901a499ff8e6a272f92b3defd",
+      "size": 11898958,
+      "updated": 1793126264,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3287727378__1793126264__92jeepYJ.zip",
+      "workshop_id": "3287727378"
+    },
+    "92jeepYJJP18": {
+      "asset": "3287727378__1793126264__92jeepYJJP18.zip",
+      "sha256": "dc23da0f5d9b93137ca897b6ed6a3996cd34aee32d0cc5bf32265b036450bf7e",
+      "size": 724254,
+      "updated": 1793126264,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3287727378__1793126264__92jeepYJJP18.zip",
+      "workshop_id": "3287727378"
+    },
     "92nissanGTR": {
-      "asset": "2846036306__1782411086__92nissanGTR.zip",
-      "sha256": "3d49375c38ffdae9bc9c407eb45413a2313d08f78afad3fa311a284333c66f44",
-      "size": 13302714,
-      "source": "server_copy",
-      "updated": 1782411086,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2846036306__1782411086__92nissanGTR.zip",
+      "asset": "2846036306__1793039306__92nissanGTR.zip",
+      "sha256": "5175f2e0890ff9ec645b995a9ef25c027ffdaac0b12135681698019683c76368",
+      "size": 13557679,
+      "updated": 1793039306,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2846036306__1793039306__92nissanGTR.zip",
       "workshop_id": "2846036306"
+    },
+    "93chevySuburban": {
+      "asset": "3152529790__1793126421__93chevySuburban.zip",
+      "sha256": "8dc950b8489e2336c61be5f87d046f7d1a9de90662ffae9964d457f61f927895",
+      "size": 35541388,
+      "updated": 1793126421,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3152529790__1793126421__93chevySuburban.zip",
+      "workshop_id": "3152529790"
+    },
+    "93chevySuburbanExpanded": {
+      "asset": "3152529790__1793126421__93chevySuburbanExpanded.zip",
+      "sha256": "80d1cd0e1a1065554fb0a45a7be11143ee3683b52ebf197163e60815ba0bd0f6",
+      "size": 10320758,
+      "updated": 1793126421,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3152529790__1793126421__93chevySuburbanExpanded.zip",
+      "workshop_id": "3152529790"
+    },
+    "93fordElgin": {
+      "asset": "2969343830__1793126711__93fordElgin.zip",
+      "sha256": "a11674e3c01a7401a3bd198de4c0da0d8b2f25ad1cf33b4cc009efd8cbf1f184",
+      "size": 8550143,
+      "updated": 1793126711,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2969343830__1793126711__93fordElgin.zip",
+      "workshop_id": "2969343830"
+    },
+    "93fordF350": {
+      "asset": "3073430075__1793126375__93fordF350.zip",
+      "sha256": "33c796a318cf5e8551e975b33c9ff125278c1b5f49339d525ee5f3a0caede7b2",
+      "size": 21293027,
+      "updated": 1793126375,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3073430075__1793126375__93fordF350.zip",
+      "workshop_id": "3073430075"
+    },
+    "97bushmaster": {
+      "asset": "2897390033__1793126585__97bushmaster.zip",
+      "sha256": "2a6e6cc35fcb64556bfc93226037cfecf9b76a1676b5bb59367699e31f035f2f",
+      "size": 10251996,
+      "updated": 1793126585,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/2897390033__1793126585__97bushmaster.zip",
+      "workshop_id": "2897390033"
     },
     "Animations Smooth Sync Vehicle 42.13.2": {
       "asset": "3670959466__1771996419__Animations_Smooth_Sync_Vehicle_42.13.2.zip",
@@ -298,11 +402,11 @@
       "workshop_id": "3632134603"
     },
     "AutotsarMotorClub": {
-      "asset": "3404737883__1791132200__AutotsarMotorClub.zip",
-      "sha256": "1459e001a27417303dd035eac6768d366510a4068df4dc480a89bcdb70c97956",
-      "size": 10353541,
-      "updated": 1791132200,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3404737883__1791132200__AutotsarMotorClub.zip",
+      "asset": "3404737883__1793483073__AutotsarMotorClub.zip",
+      "sha256": "63c514c794ea97f99979178da6ef30cf367274c479d5d4ba91a11fb56c5f269a",
+      "size": 10355491,
+      "updated": 1793483073,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3404737883__1793483073__AutotsarMotorClub.zip",
       "workshop_id": "3404737883"
     },
     "BadlandsAfterDark": {
@@ -331,30 +435,27 @@
       "workshop_id": "3807677836"
     },
     "BadlandsGreenhouse": {
-      "asset": "3807333290__1791097215__BadlandsGreenhouse.zip",
-      "sha256": "6aca76145beb91146aed804a91ae310ba0949d01121d455f83c70856eedf8e80",
-      "size": 541659,
-      "source": "server_copy",
-      "updated": 1791097215,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3807333290__1791097215__BadlandsGreenhouse.zip",
+      "asset": "3807333290__1791735246__BadlandsGreenhouse.zip",
+      "sha256": "fc2a83741abea6fd6cf264606bd1ff7f1e6751421f30b2549efa7e09e27339ff",
+      "size": 542406,
+      "updated": 1791735246,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3807333290__1791735246__BadlandsGreenhouse.zip",
       "workshop_id": "3807333290"
     },
     "BadlandsPosters": {
-      "asset": "3806390808__1790717752__BadlandsPosters.zip",
-      "sha256": "e457e161d44f20404a9bbafd7866664d4e672f7c48dee50a5a170c0dda67d9c2",
-      "size": 1749774,
-      "source": "server_copy",
-      "updated": 1790717752,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3806390808__1790717752__BadlandsPosters.zip",
+      "asset": "3806390808__1791735554__BadlandsPosters.zip",
+      "sha256": "07332c42d61e3d367aba841807691f0e2fb56f99d692bfad2e1ff1d52b47aeb4",
+      "size": 1749838,
+      "updated": 1791735554,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3806390808__1791735554__BadlandsPosters.zip",
       "workshop_id": "3806390808"
     },
     "BadlandsPower": {
-      "asset": "3804093735__1790984098__BadlandsPower.zip",
-      "sha256": "3977536e84c4b2b3d5618265e6eccedeb1cbf00c07bd79b27bd76e9e6976315a",
-      "size": 402709,
-      "source": "server_copy",
-      "updated": 1790984098,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3804093735__1790984098__BadlandsPower.zip",
+      "asset": "3804093735__1791746477__BadlandsPower.zip",
+      "sha256": "953ef0c73545a85e51acbd144363467e588d1ff258aa1db24a586cf00dfc94bf",
+      "size": 403144,
+      "updated": 1791746477,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3804093735__1791746477__BadlandsPower.zip",
       "workshop_id": "3804093735"
     },
     "BadlandsTabletop": {
@@ -366,11 +467,11 @@
       "workshop_id": "3808817996"
     },
     "Bandits": {
-      "asset": "3268487204__1792420617__Bandits.zip",
-      "sha256": "0b84596a63c7169c51fcdb8446ed56c702e5faf4ae741cd88a2bbc727eeaf2e9",
-      "size": 101187568,
-      "updated": 1792420617,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3268487204__1792420617__Bandits.zip",
+      "asset": "3268487204__1793388569__Bandits.zip",
+      "sha256": "907f977063b64ec06e38c8ab57691c8bf70a2686c2c828d6b10d5fbd80300f37",
+      "size": 101234314,
+      "updated": 1793388569,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3268487204__1793388569__Bandits.zip",
       "workshop_id": "3268487204"
     },
     "BanditsCreator": {
@@ -428,6 +529,14 @@
       "updated": 1792340737,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3580557206__1792340737__Better_Daily_Reports.zip",
       "workshop_id": "3580557206"
+    },
+    "BetterCorpseBurning": {
+      "asset": "3790089095__1793290943__BetterCorpseBurning.zip",
+      "sha256": "ff462016c502377bb401a399144d6136348218996b6039a6e1a21658198aaa5c",
+      "size": 782827,
+      "updated": 1793290943,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3790089095__1793290943__BetterCorpseBurning.zip",
+      "workshop_id": "3790089095"
     },
     "BetterSafehouse": {
       "asset": "3634569678__1787866390__BetterSafehouse.zip",
@@ -508,11 +617,11 @@
       "workshop_id": "3810688371"
     },
     "CAItemArrangeExtension": {
-      "asset": "3813943783__1792959524__CAItemArrangeExtension.zip",
-      "sha256": "741291c7df528cf26327ccfdab83bf642e847ff5c88d298a2fd022a9c049bde1",
-      "size": 585719,
-      "updated": 1792959524,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813943783__1792959524__CAItemArrangeExtension.zip",
+      "asset": "3813943783__1793121695__CAItemArrangeExtension.zip",
+      "sha256": "02cc54de0a9bfc54dc10e78ec0962f880ccc2aeeeaae7c575aaea52e6c628f4d",
+      "size": 585764,
+      "updated": 1793121695,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813943783__1793121695__CAItemArrangeExtension.zip",
       "workshop_id": "3813943783"
     },
     "ChestRigWebbing": {
@@ -542,11 +651,11 @@
       "workshop_id": "3816763055"
     },
     "CleanHotBar": {
-      "asset": "3461263912__1792673546__CleanHotBar.zip",
-      "sha256": "f2e21d287f9b8476d038a36d7915910910ad1583787721330906698e18b079b8",
-      "size": 495310,
-      "updated": 1792673546,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3461263912__1792673546__CleanHotBar.zip",
+      "asset": "3461263912__1793283263__CleanHotBar.zip",
+      "sha256": "e0afa10738f2c3f9b3f14bbbd3f532c8d720a78f562f21de97bbb33e5acc8bfb",
+      "size": 495424,
+      "updated": 1793283263,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3461263912__1793283263__CleanHotBar.zip",
       "workshop_id": "3461263912"
     },
     "CloseTheDamnedDoor": {
@@ -856,12 +965,20 @@
       "workshop_id": "3722134990"
     },
     "Gunworks_gang_framework": {
-      "asset": "3722064198__1792749804__Gunworks_gang_framework.zip",
-      "sha256": "92045063134116c2cc1e59974efd432f49e4badf506a3717446dbb0cd44b0ac1",
-      "size": 240221,
-      "updated": 1792749804,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3722064198__1792749804__Gunworks_gang_framework.zip",
+      "asset": "3722064198__1793314239__Gunworks_gang_framework.zip",
+      "sha256": "ccb329384c320faa64f65f058b669851f9b6e410e7c2cb617d1265ef5925b8c6",
+      "size": 248841,
+      "updated": 1793314239,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3722064198__1793314239__Gunworks_gang_framework.zip",
       "workshop_id": "3722064198"
+    },
+    "HeartHealthMeter": {
+      "asset": "3805849470__1793416783__HeartHealthMeter.zip",
+      "sha256": "260d03fa66cb22c3422aa8f31aae8931cc28875e5628284edbf6bacbba88fc90",
+      "size": 88750,
+      "updated": 1793416783,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3805849470__1793416783__HeartHealthMeter.zip",
+      "workshop_id": "3805849470"
     },
     "HeavyOrdnance": {
       "asset": "3802070967__1792738142__HeavyOrdnance.zip",
@@ -1039,19 +1156,19 @@
       "workshop_id": "3809551601"
     },
     "KnoxPower": {
-      "asset": "3814302595__1792008976__KnoxPower.zip",
-      "sha256": "e1e72abdda54ee7a08fa2583fc891903673025829836034eb167bbd85e31332e",
-      "size": 523683,
-      "updated": 1792008976,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814302595__1792008976__KnoxPower.zip",
+      "asset": "3814302595__1793474668__KnoxPower.zip",
+      "sha256": "579454f18779dea2d27d5e0d0ea0f35433e7f605ca4fabeed32e560e20793beb",
+      "size": 526228,
+      "updated": 1793474668,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814302595__1793474668__KnoxPower.zip",
       "workshop_id": "3814302595"
     },
     "LastSignal": {
-      "asset": "3817732616__1792403221__LastSignal.zip",
-      "sha256": "09998d5f82b969c4b2d3e846f54ba512a7e372aa5983716a23a5ba301d04e133",
-      "size": 61336221,
-      "updated": 1792403221,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817732616__1792403221__LastSignal.zip",
+      "asset": "3817732616__1793203639__LastSignal.zip",
+      "sha256": "ac5ad7e6e6c02b666286410d5111a82fe55872edd176c40e176807e66f544002",
+      "size": 61348515,
+      "updated": 1793203639,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3817732616__1793203639__LastSignal.zip",
       "workshop_id": "3817732616"
     },
     "LiterallyPlayableVGCEmulation": {
@@ -1106,6 +1223,14 @@
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3796643764__1791213877__MetalConvertBench.zip",
       "workshop_id": "3796643764"
     },
+    "MoGArmySurplusGunNutLoot": {
+      "asset": "3801860979__1793146174__MoGArmySurplusGunNutLoot.zip",
+      "sha256": "0c515fcd02c10d46c7b332860bcc32d4e3e0b93dc17caf2f008bc741af5142c7",
+      "size": 172874,
+      "updated": 1793146174,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3801860979__1793146174__MoGArmySurplusGunNutLoot.zip",
+      "workshop_id": "3801860979"
+    },
     "ModLoadOrderSorter_b42": {
       "asset": "3423660713__1792755744__ModLoadOrderSorter_b42.zip",
       "sha256": "c72d44012a1b7fb1484c6eac592b31aea832ed3a5c61dd814161a66f49b28b9e",
@@ -1157,11 +1282,11 @@
       "workshop_id": "3634630898"
     },
     "OldPoint": {
-      "asset": "3815999052__1792693076__OldPoint.zip",
-      "sha256": "ff7769ddcf4dd94ae3eafb43bc8b9d49f978011d3763fb0f095e13bc57485983",
-      "size": 735767,
-      "updated": 1792693076,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815999052__1792693076__OldPoint.zip",
+      "asset": "3815999052__1793303403__OldPoint.zip",
+      "sha256": "7c9d9a096b772afe10c1d6bd071d3d2aa3de7f24f5fb3bd559883dcfe5400f75",
+      "size": 779260,
+      "updated": 1793303403,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3815999052__1793303403__OldPoint.zip",
       "workshop_id": "3815999052"
     },
     "OnanGenSet": {
@@ -1215,12 +1340,11 @@
       "workshop_id": "3698742271"
     },
     "PZVoxelStudioViewpoint": {
-      "asset": "3810302175__1791382007__PZVoxelStudioViewpoint.zip",
-      "sha256": "688a3a54a11ce4ae7ff96bcda9a7c660f0900e55f97cd34aa5159b489078663d",
-      "size": 273019180,
-      "source": "server_copy",
-      "updated": 1791382007,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810302175__1791382007__PZVoxelStudioViewpoint.zip",
+      "asset": "3810302175__1793390177__PZVoxelStudioViewpoint.zip",
+      "sha256": "dfc118c49eac78753c3efcbc47a58369f8124c4a292039e8a791266ff2782810",
+      "size": 180162311,
+      "updated": 1793390177,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3810302175__1793390177__PZVoxelStudioViewpoint.zip",
       "workshop_id": "3810302175"
     },
     "PZ_Pulse": {
@@ -1230,6 +1354,14 @@
       "updated": 1792001529,
       "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3753700423__1792001529__PZ_Pulse.zip",
       "workshop_id": "3753700423"
+    },
+    "PaintMyKI5": {
+      "asset": "3782524328__1793115604__PaintMyKI5.zip",
+      "sha256": "ce6babd214b77dc090815bbe025e48c346e3b5322fa6b08171210f76e57fb747",
+      "size": 971109,
+      "updated": 1793115604,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3782524328__1793115604__PaintMyKI5.zip",
+      "workshop_id": "3782524328"
     },
     "PingItemsFriends": {
       "asset": "3776262249__1786839220__PingItemsFriends.zip",
@@ -1260,19 +1392,19 @@
       "workshop_id": "3793663684"
     },
     "Plysken Battery Charger": {
-      "asset": "3793465866__1792918859__Plysken_Battery_Charger.zip",
-      "sha256": "04011a6e0613eeb6a7df5237bc40ca7d7cac4c95b1aa5c3393c977e40762c930",
-      "size": 3703992,
-      "updated": 1792918859,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3793465866__1792918859__Plysken_Battery_Charger.zip",
+      "asset": "3793465866__1793454349__Plysken_Battery_Charger.zip",
+      "sha256": "ae7c82ba9c93aa95a67d4efe61388866c373a02b13ee3dff02c5bfaa50b1ad80",
+      "size": 3704972,
+      "updated": 1793454349,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3793465866__1793454349__Plysken_Battery_Charger.zip",
       "workshop_id": "3793465866"
     },
     "Plysken Irrigation Pipes": {
-      "asset": "3739173520__1792763795__Plysken_Irrigation_Pipes.zip",
-      "sha256": "02ef85a6f8a4d2b14ca70374e493f4e7cbbed3061cd84f3762659d9af691d67c",
-      "size": 2325796,
-      "updated": 1792763795,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3739173520__1792763795__Plysken_Irrigation_Pipes.zip",
+      "asset": "3739173520__1793454694__Plysken_Irrigation_Pipes.zip",
+      "sha256": "6bb48c0dec785729f62808da0870d66263603b18da309108df0ef25a317d61be",
+      "size": 2328363,
+      "updated": 1793454694,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3739173520__1793454694__Plysken_Irrigation_Pipes.zip",
       "workshop_id": "3739173520"
     },
     "Plysken Solar Revolution": {
@@ -1320,11 +1452,11 @@
       "workshop_id": "3815019204"
     },
     "ProjectViewpointNearVegetation": {
-      "asset": "3813172420__1792519026__ProjectViewpointNearVegetation.zip",
-      "sha256": "04c68d84c8a5ebbad0b931500dcd6c0e43bb774a317e89db74e9c30d5f8d1074",
-      "size": 26027134,
-      "updated": 1792519026,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813172420__1792519026__ProjectViewpointNearVegetation.zip",
+      "asset": "3813172420__1793373583__ProjectViewpointNearVegetation.zip",
+      "sha256": "b02a7c32aa29c41a38575cc6bb8c52ea6b770262c77a86e945a8b71c0e46d42d",
+      "size": 26043161,
+      "updated": 1793373583,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3813172420__1793373583__ProjectViewpointNearVegetation.zip",
       "workshop_id": "3813172420"
     },
     "ProjectViewpointQOL": {
@@ -1344,11 +1476,11 @@
       "workshop_id": "3815931973"
     },
     "RCStructureFramework": {
-      "asset": "3718883428__1793003703__RCStructureFramework.zip",
-      "sha256": "cda36392c232eed633e2370e055a5f72466660f39cbac76107fcd587cd11c43d",
-      "size": 270209,
-      "updated": 1793003703,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3718883428__1793003703__RCStructureFramework.zip",
+      "asset": "3718883428__1793418763__RCStructureFramework.zip",
+      "sha256": "724831de4d848db70a1c1485ec97e45a335a86d42a5444269f7d0310a2e163fa",
+      "size": 278876,
+      "updated": 1793418763,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3718883428__1793418763__RCStructureFramework.zip",
       "workshop_id": "3718883428"
     },
     "RealisticTemperature": {
@@ -1442,19 +1574,19 @@
       "workshop_id": "3810188405"
     },
     "ShieldUp": {
-      "asset": "3811601101__1792680594__ShieldUp.zip",
-      "sha256": "731da1dc321b277fdcfa07c48c6e04c5c61bba1741776abf8fe575ef8b5fca45",
-      "size": 2228475,
-      "updated": 1792680594,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811601101__1792680594__ShieldUp.zip",
+      "asset": "3811601101__1793271200__ShieldUp.zip",
+      "sha256": "f49cfa4c41d9fa923330ad43142c1107e0df525c4f618c14c6491d761eade828",
+      "size": 3020602,
+      "updated": 1793271200,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811601101__1793271200__ShieldUp.zip",
       "workshop_id": "3811601101"
     },
     "ShieldUp_Hardwood": {
-      "asset": "3811601101__1792680594__ShieldUp_Hardwood.zip",
-      "sha256": "a0b64ec91d5dcc42b748d4685e0423f276ce10c23ee8f4840b453b55ac73bbc6",
-      "size": 721159,
-      "updated": 1792680594,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811601101__1792680594__ShieldUp_Hardwood.zip",
+      "asset": "3811601101__1793271200__ShieldUp_Hardwood.zip",
+      "sha256": "696283db7eb820897c99efafae2fccc9aa3f80d363bd1b9c451d5ac3966e4659",
+      "size": 721160,
+      "updated": 1793271200,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811601101__1793271200__ShieldUp_Hardwood.zip",
       "workshop_id": "3811601101"
     },
     "Simple Belt Flashlight Plus": {
@@ -1562,11 +1694,11 @@
       "workshop_id": "3608589196"
     },
     "SquareGrailProfession": {
-      "asset": "3773667690__1791189924__SquareGrailProfession.zip",
-      "sha256": "a1129a0976a387509f6474348f594f7f53f0443d5b71681ef248ac4db653c1ec",
-      "size": 121803,
-      "updated": 1791189924,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3773667690__1791189924__SquareGrailProfession.zip",
+      "asset": "3773667690__1793389694__SquareGrailProfession.zip",
+      "sha256": "6daa656edd4e4705b51e3848e3737c978815b09c856320011c1e7561f0afd160",
+      "size": 158283,
+      "updated": 1793389694,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3773667690__1793389694__SquareGrailProfession.zip",
       "workshop_id": "3773667690"
     },
     "Stackable Chairs": {
@@ -1634,11 +1766,11 @@
       "workshop_id": "3818039291"
     },
     "SurvivorBriefing": {
-      "asset": "3808944882__1792941164__SurvivorBriefing.zip",
-      "sha256": "7e7eb36ef7a3080b41456413100033fc52d92f7501f632d03a826f1dc2d498b0",
-      "size": 3988153,
-      "updated": 1792941164,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3808944882__1792941164__SurvivorBriefing.zip",
+      "asset": "3808944882__1793453988__SurvivorBriefing.zip",
+      "sha256": "1a3641dea9b3d27530eaefaf1fe3d98daccabc5929a04dc097e5768c69a65832",
+      "size": 4004232,
+      "updated": 1793453988,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3808944882__1793453988__SurvivorBriefing.zip",
       "workshop_id": "3808944882"
     },
     "Take A Bath And Shower DepthMap Fix": {
@@ -1666,11 +1798,11 @@
       "workshop_id": "3713055578"
     },
     "TchernoLib": {
-      "asset": "3389605231__1791190973__TchernoLib.zip",
-      "sha256": "040ae71900d1f17c823d932c1b91d9136b9a0aa5cf43720cbc7274aec73b2193",
-      "size": 213764,
-      "updated": 1791190973,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3389605231__1791190973__TchernoLib.zip",
+      "asset": "3389605231__1793323614__TchernoLib.zip",
+      "sha256": "b832aa9007d6f7a0088d40065b11751c4b9b49ff4e3efce17f596e955ff20387",
+      "size": 274304,
+      "updated": 1793323614,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3389605231__1793323614__TchernoLib.zip",
       "workshop_id": "3389605231"
     },
     "The Long Dark": {
@@ -1752,11 +1884,19 @@
       "workshop_id": "3810658607"
     },
     "TrippingZombies": {
-      "asset": "3746603021__1792961774__TrippingZombies.zip",
-      "sha256": "535ba4b83e421180fe6c5de3d59a05d176b28ca7a897afffce87d3a4ef36b4ba",
-      "size": 293273,
-      "updated": 1792961774,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746603021__1792961774__TrippingZombies.zip",
+      "asset": "3746603021__1793234548__TrippingZombies.zip",
+      "sha256": "5406e89b6bfe9658a4b40709f0b2231a82c2d38cec4dea64bd93f7138904eb5f",
+      "size": 308485,
+      "updated": 1793234548,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746603021__1793234548__TrippingZombies.zip",
+      "workshop_id": "3746603021"
+    },
+    "TrippingZombiesRealLimbs": {
+      "asset": "3746603021__1793234548__TrippingZombiesRealLimbs.zip",
+      "sha256": "b1bae7aa34959a48c7ed850a3ea9d95f2b3fca26d11459025b08f6c4147b46a5",
+      "size": 96844,
+      "updated": 1793234548,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746603021__1793234548__TrippingZombiesRealLimbs.zip",
       "workshop_id": "3746603021"
     },
     "TrueVehicleHit": {
@@ -1803,19 +1943,19 @@
       "workshop_id": "3421271152"
     },
     "Vanilla Foods Expanded": {
-      "asset": "3577903007__1792125922__Vanilla_Foods_Expanded.zip",
-      "sha256": "3d2830156747fa235a5110390e9e9ccc48e537f28c9c1e32ff98334f6dff06c4",
-      "size": 104595854,
-      "updated": 1792125922,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3577903007__1792125922__Vanilla_Foods_Expanded.zip",
+      "asset": "3577903007__1793096340__Vanilla_Foods_Expanded.zip",
+      "sha256": "2020bf3f141d14d45bd9b432482d57c445cc829305db24857a67e5f65ef64710",
+      "size": 104640650,
+      "updated": 1793096340,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3577903007__1793096340__Vanilla_Foods_Expanded.zip",
       "workshop_id": "3577903007"
     },
     "VanillaVehiclesReplacerKI5": {
-      "asset": "3423424077__1791041759__VanillaVehiclesReplacerKI5.zip",
-      "sha256": "401a5c9d7866328a451c28a13074414afcdcd0b1527a9253b2bcaf2d9adfc1fb",
-      "size": 64478,
-      "updated": 1791041759,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3423424077__1791041759__VanillaVehiclesReplacerKI5.zip",
+      "asset": "3423424077__1793541336__VanillaVehiclesReplacerKI5.zip",
+      "sha256": "87bfc2746a518c980e7853ebe74031b53bd973835f383911b56f0eccb8562529",
+      "size": 64557,
+      "updated": 1793541336,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3423424077__1793541336__VanillaVehiclesReplacerKI5.zip",
       "workshop_id": "3423424077"
     },
     "Vehicle Repair Overhaul": {
@@ -2001,11 +2141,11 @@
       "workshop_id": "3815630947"
     },
     "ViewpointShelves3D": {
-      "asset": "3818700431__1792334043__ViewpointShelves3D.zip",
-      "sha256": "5976792ba1a061dcdc1a4c4ca9bdc6f2e69f44f98025a6cb220712c0c1182fd5",
-      "size": 21429524,
-      "updated": 1792334043,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818700431__1792334043__ViewpointShelves3D.zip",
+      "asset": "3818700431__1793487972__ViewpointShelves3D.zip",
+      "sha256": "d65c1dc0719e17e47cb5ff934a3b794e23f7af48f0c916bdd1592db6d0ff2b26",
+      "size": 54321030,
+      "updated": 1793487972,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818700431__1793487972__ViewpointShelves3D.zip",
       "workshop_id": "3818700431"
     },
     "ViewpointSmoothFrames": {
@@ -2026,11 +2166,11 @@
       "workshop_id": "3818189653"
     },
     "Visible Vehicle Coupling": {
-      "asset": "3807182783__1792560183__Visible_Vehicle_Coupling.zip",
-      "sha256": "473ce552d61de09d73c89861a42b8f05a4ef2e36db172b1faa29333444c38613",
-      "size": 2797364,
-      "updated": 1792560183,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3807182783__1792560183__Visible_Vehicle_Coupling.zip",
+      "asset": "3807182783__1793308839__Visible_Vehicle_Coupling.zip",
+      "sha256": "7e305a18188845c7418530833a1a7137aed6b25b93c370e62d3fb233d8c6db2f",
+      "size": 2799051,
+      "updated": 1793308839,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3807182783__1793308839__Visible_Vehicle_Coupling.zip",
       "workshop_id": "3807182783"
     },
     "VisibleDoorDamage": {
@@ -2121,11 +2261,11 @@
       "workshop_id": "3811483602"
     },
     "ZombieVisibilityFix": {
-      "asset": "3814073243__1792386014__ZombieVisibilityFix.zip",
-      "sha256": "08ee396a3be419ca5fee3119ebb514477736a4792e2c111b9f47b684108c8637",
-      "size": 47886,
-      "updated": 1792386014,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814073243__1792386014__ZombieVisibilityFix.zip",
+      "asset": "3814073243__1793438429__ZombieVisibilityFix.zip",
+      "sha256": "793dd5812c50b1bac7eb42178ca595d9cf817e99f2cbd78a0c438f2246084b6a",
+      "size": 48068,
+      "updated": 1793438429,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814073243__1793438429__ZombieVisibilityFix.zip",
       "workshop_id": "3814073243"
     },
     "ZoneLootRefill": {
@@ -2197,11 +2337,19 @@
       "workshop_id": "3727753275"
     },
     "damnlib": {
-      "asset": "3171167894__1792520028__damnlib.zip",
-      "sha256": "7b813cc68ff1c66821f1b86f3593b19ac8d3c0018af6d08d91115671bd61d33e",
-      "size": 29040854,
-      "updated": 1792520028,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3171167894__1792520028__damnlib.zip",
+      "asset": "3171167894__1793302994__damnlib.zip",
+      "sha256": "d14fac3922bf3493ca429c883a05303cc5f78ae44114ef5b76f1a48345f243b2",
+      "size": 29030450,
+      "updated": 1793302994,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3171167894__1793302994__damnlib.zip",
+      "workshop_id": "3171167894"
+    },
+    "damnlibGlass": {
+      "asset": "3171167894__1793302994__damnlibGlass.zip",
+      "sha256": "36d53e84ea452af6cd7120c3a6a07477d1d393bd5a9a0cd9ff7cdad0a53bd334",
+      "size": 28401,
+      "updated": 1793302994,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3171167894__1793302994__damnlibGlass.zip",
       "workshop_id": "3171167894"
     },
     "ikag_badlands_media": {
@@ -2344,7 +2492,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-10-26T21:31:36.881748+00:00",
+  "generated_utc": "2026-11-01T19:06:39.917299+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
