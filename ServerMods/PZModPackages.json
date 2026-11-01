@@ -589,23 +589,23 @@
       "workshop_id": "3800201302"
     },
     "BundleUpGoM": {
-      "asset": "3746632343__1791939575__BundleUpGoM.zip",
+      "asset": "3746632343__1793468547__BundleUpGoM.zip",
       "partial_item": true,
       "sha256": "7512f74beb0bd3885d28e2382f25ec3ca5f355db2562c858d9db3d65c399cd1a",
       "size": 110318,
       "source": "server_copy",
-      "updated": 1791939575,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746632343__1791939575__BundleUpGoM.zip",
+      "updated": 1793468547,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746632343__1793468547__BundleUpGoM.zip",
       "workshop_id": "3746632343"
     },
     "BundleUpVFX": {
-      "asset": "3746632343__1791939575__BundleUpVFX.zip",
+      "asset": "3746632343__1793468547__BundleUpVFX.zip",
       "partial_item": true,
       "sha256": "2bb307e8cace479ea11615e097b20476484b41f453716131e1d22c990562b5ff",
       "size": 238551,
       "source": "server_copy",
-      "updated": 1791939575,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746632343__1791939575__BundleUpVFX.zip",
+      "updated": 1793468547,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746632343__1793468547__BundleUpVFX.zip",
       "workshop_id": "3746632343"
     },
     "ButtstrokePlus": {
@@ -955,13 +955,13 @@
       "workshop_id": "3782313362"
     },
     "GunsOfMarz": {
-      "asset": "3722134990__1792738124__GunsOfMarz.zip",
+      "asset": "3722134990__1793314263__GunsOfMarz.zip",
       "partial_item": true,
-      "sha256": "ab814b5ee51173b58c92e1649433ba7d1a561f093ee688314e3cdf57df89179b",
-      "size": 37737534,
+      "sha256": "d58c63ac87a0c1b3dd2d0ef4262fbe2e34c2312c6bdb3e5837c1b5bd030b18c1",
+      "size": 47483348,
       "source": "server_copy",
-      "updated": 1792738124,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3722134990__1792738124__GunsOfMarz.zip",
+      "updated": 1793314263,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3722134990__1793314263__GunsOfMarz.zip",
       "workshop_id": "3722134990"
     },
     "Gunworks_gang_framework": {
@@ -1005,32 +1005,32 @@
       "workshop_id": "3793875056"
     },
     "Hot_Brass_Ammo_Crafting": {
-      "asset": "3610677934__1792738100__Hot_Brass_Ammo_Crafting.zip",
+      "asset": "3610677934__1793381698__Hot_Brass_Ammo_Crafting.zip",
       "partial_item": true,
-      "sha256": "b062e70cb646ea24bbac6f39a4240d5404089a01c74b7f7d91b222f54702e90f",
-      "size": 3790044,
+      "sha256": "d35b97e8c3f029db337504134fe3df85afa4a6d40516f7b46004efd295fba6d5",
+      "size": 3792699,
       "source": "server_copy",
-      "updated": 1792738100,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3610677934__1792738100__Hot_Brass_Ammo_Crafting.zip",
+      "updated": 1793381698,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3610677934__1793381698__Hot_Brass_Ammo_Crafting.zip",
       "workshop_id": "3610677934"
     },
     "Hot_Brass_Visible_Casing_Ejection_Framework": {
-      "asset": "3610677934__1792738100__Hot_Brass_Visible_Casing_Ejection_Framework.zip",
+      "asset": "3610677934__1793381698__Hot_Brass_Visible_Casing_Ejection_Framework.zip",
       "partial_item": true,
-      "sha256": "fff10672d643ea4759474336fbf4fe8014c6565f6d7896dd21ebd6b4a996f6ec",
-      "size": 6565958,
+      "sha256": "11e1248e4d8b29b37100bfbc145ea125b71a57d24cd9cf196adff8d1973eec42",
+      "size": 6572689,
       "source": "server_copy",
-      "updated": 1792738100,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3610677934__1792738100__Hot_Brass_Visible_Casing_Ejection_Framework.zip",
+      "updated": 1793381698,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3610677934__1793381698__Hot_Brass_Visible_Casing_Ejection_Framework.zip",
       "workshop_id": "3610677934"
     },
     "ImmersiveBlackouts": {
-      "asset": "3607686447__1789865543__ImmersiveBlackouts.zip",
-      "sha256": "77ddc8251c8018ad312b59d702157cec4c5498dc6d34092cbba3eeaebd830436",
-      "size": 101477,
+      "asset": "3607686447__1793551231__ImmersiveBlackouts.zip",
+      "sha256": "9242e4972a3735517c932a28c7f81c8914719612eaf716696492e757d0894165",
+      "size": 101381,
       "source": "server_copy",
-      "updated": 1789865543,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3607686447__1789865543__ImmersiveBlackouts.zip",
+      "updated": 1793551231,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3607686447__1793551231__ImmersiveBlackouts.zip",
       "workshop_id": "3607686447"
     },
     "ImmersiveDriving": {
@@ -1240,11 +1240,12 @@
       "workshop_id": "3423660713"
     },
     "Monorails": {
-      "asset": "3814657376__1792007044__Monorails.zip",
+      "asset": "3814657376__1793549740__Monorails.zip",
       "sha256": "217d838caeacfe5f5c1b71febbe9c61fc13b6beab8871894011ddb10f20bf435",
       "size": 5180031,
-      "updated": 1792007044,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814657376__1792007044__Monorails.zip",
+      "source": "server_copy",
+      "updated": 1793549740,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3814657376__1793549740__Monorails.zip",
       "workshop_id": "3814657376"
     },
     "MoreVarietyLoot25%": {
@@ -1460,11 +1461,23 @@
       "workshop_id": "3813172420"
     },
     "ProjectViewpointQOL": {
-      "asset": "3811256204__1792319533__ProjectViewpointQOL.zip",
-      "sha256": "161428761ce35f9be04bc34fe861cf17fb9751efd59d306211f62647f758ee43",
-      "size": 939298,
-      "updated": 1792319533,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811256204__1792319533__ProjectViewpointQOL.zip",
+      "asset": "3811256204__1793554708__ProjectViewpointQOL.zip",
+      "partial_item": true,
+      "sha256": "aa5f0048c3b02f4756cca25f32686f09b77240234a66534c46cd7421f069b866",
+      "size": 947086,
+      "source": "server_copy",
+      "updated": 1793554708,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811256204__1793554708__ProjectViewpointQOL.zip",
+      "workshop_id": "3811256204"
+    },
+    "ProjectViewpointQOLAdditionalFeatures": {
+      "asset": "3811256204__1793554708__ProjectViewpointQOLAdditionalFeatures.zip",
+      "partial_item": true,
+      "sha256": "cd78772738efa0d0c3a0beef8beb559ef29d2d1c1cbb43ecfefa58cd905bff32",
+      "size": 877605,
+      "source": "server_copy",
+      "updated": 1793554708,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811256204__1793554708__ProjectViewpointQOLAdditionalFeatures.zip",
       "workshop_id": "3811256204"
     },
     "ProjectViewpointShelves": {
@@ -1814,13 +1827,13 @@
       "workshop_id": "3762319745"
     },
     "TheOnlyCurePlus": {
-      "asset": "3818733381__1792720283__TheOnlyCurePlus.zip",
+      "asset": "3818733381__1793518342__TheOnlyCurePlus.zip",
       "partial_item": true,
-      "sha256": "4d638c7d85aabcd6b7817cdb4953efbe6bc7b70ada1cc027dc40d3c48221c6fd",
-      "size": 60213238,
+      "sha256": "cee5aa34c04db202c03f06968a6e461d85c4cc251effc5d736e08c05f79ee481",
+      "size": 60218478,
       "source": "server_copy",
-      "updated": 1792720283,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818733381__1792720283__TheOnlyCurePlus.zip",
+      "updated": 1793518342,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3818733381__1793518342__TheOnlyCurePlus.zip",
       "workshop_id": "3818733381"
     },
     "TheWalkingZomboidCompleteB42": {
@@ -1925,13 +1938,13 @@
       "workshop_id": "3813053718"
     },
     "Vanilla": {
-      "asset": "3746632343__1791939575__Vanilla.zip",
+      "asset": "3746632343__1793468547__Vanilla.zip",
       "partial_item": true,
-      "sha256": "49ab164af5a67a1ea1106c50d38e4f603757ddd05cf68378480bf83163ae426e",
-      "size": 371729,
+      "sha256": "d373de8889e3ff47f878f89508549c538e2ae8ebf25c04072288025ec795c441",
+      "size": 381850,
       "source": "server_copy",
-      "updated": 1791939575,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746632343__1791939575__Vanilla.zip",
+      "updated": 1793468547,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3746632343__1793468547__Vanilla.zip",
       "workshop_id": "3746632343"
     },
     "Vanilla Clothing Expansion": {
@@ -2301,11 +2314,13 @@
       "workshop_id": "3817018338"
     },
     "batman_MilitaryDrop": {
-      "asset": "3811752923__1792776113__batman_MilitaryDrop.zip",
-      "sha256": "640889a7b4ef377fdaa58cb23885818643f285fa9b0e5c43066d3731d5499895",
-      "size": 9722321,
-      "updated": 1792776113,
-      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811752923__1792776113__batman_MilitaryDrop.zip",
+      "asset": "3811752923__1793308387__batman_MilitaryDrop.zip",
+      "partial_item": true,
+      "sha256": "1c3f45568f9d33055779863bb21c1f9ff916a358f15250af8675f079d591e3a0",
+      "size": 9789953,
+      "source": "server_copy",
+      "updated": 1793308387,
+      "url": "https://github.com/Dishonesti/Private-Listing-For-PZ/releases/download/server-mods/3811752923__1793308387__batman_MilitaryDrop.zip",
       "workshop_id": "3811752923"
     },
     "batman_SignalSmoke": {
@@ -2492,7 +2507,7 @@
       "workshop_id": "3816856700"
     }
   },
-  "generated_utc": "2026-11-01T19:06:39.917299+00:00",
+  "generated_utc": "2026-11-01T19:18:39.520842+00:00",
   "release_tag": "server-mods",
   "schema": 1
 }
